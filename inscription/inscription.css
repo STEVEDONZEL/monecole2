@@ -1,0 +1,278 @@
+body{
+    font-family: "time new roman",serif;
+    font-size: 18px;
+    font-style: normal;
+    line-height: 1.5em;
+    letter-spacing: normal;
+    background-image: url("image/tou.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: local;
+    background-size: 100%;
+}
+header{
+    background-color:;
+    border:1px;
+    color: white;
+    border-style: inset;
+    border-color:white;
+    margin-bottom: 12px;
+    background-image: url("image/pm.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: local;
+    background-size: 100%;
+}
+.acc {
+    width:60px;
+    clear: left;
+}
+.acc:visited {
+    color: white;
+}
+.second {
+    background-color: blue;
+    border:1px;
+    width:100%;
+    height: 120px;
+}
+#formul{
+  border: 1px solid black;
+    color:white;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    display:bloc;
+    box-shadow: 2px 2px 2px 2px white;
+}
+.tbl {
+object-position: center;
+}
+.etranger li {
+    display: block;
+    float:right;
+    font-size: 20px;
+}
+.vue {
+    width: 100%;
+    height: 450px;
+    margin-bottom: 80px;
+}
+.etranger li {
+    display: block;
+    max-width: auto;
+}
+.etranger a {
+    font-family: "time new roman", serif;
+    text-decoration: none; /*pour désouligner les liens*/;
+    border-bottom: 2px solid dodgerblue;
+    border-left: 2px dodgerblue;
+    margin-right: 18px;
+    padding: 7px 7px 7px 7px;
+    padding-top: 10px;
+    border-radius: 2px;
+    background-color: ;
+    color:white;
+    height: 11px;
+}
+.vue {
+    width: 100%;
+    height: 450px;
+    margin-bottom: 80px;
+}
+.devise{
+    text-align: center;
+    margin-top: 14px;
+    color: white;
+}
+.nom{
+    text-align: center;
+    color: white;
+}
+.cinq {
+    text-align: right;
+    margin-top:19px;
+    padding-top:auto;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+h3{
+    color: black;
+    text-align: center;
+}
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color:aqua;
+    padding: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+#menue ul {
+    margin:0;
+    padding:0;
+    line-height: 30px;
+}
+#menue li {
+    list-style: none;
+    float: left;
+    position: relative;
+    background-color: black;
+}
+#menue ul li a {
+    color: white;
+    text-decoration: none;
+    width:300px;
+    height: 31px;
+    font-size: 19px;
+    display: block;
+    text-align: center;
+    border: 1px solid #000;
+    text-shadow: 1px white;
+    font-family: "time new roman", serif;
+}
+#menue ul ul {
+    position: absolute;
+    top: 31px;
+    visibility: hidden;
+
+}
+#menue ul li:hover ul{
+    visibility: visible;
+}
+
+#menue li:hover{
+    background-color: gray;
+}
+#menue ul li ul a:hover{
+    color: white;
+    background-color: gray;
+}
+a:hover{
+    background-color:gray;
+    color:blue;
+    font-style: normal;
+    border-style:solid;
+    border-color:black;
+}
+a:active
+{
+    background-color: tan;
+}
+a:focus{
+    background-color: darkcyan;
+}
+li a.active{
+    background-color: forestgreen;
+    color: blue;
+}
+a:visited {
+    color: burlywood;
+}
+
+#bas{
+    text-decoration: none;
+    position: relative;
+    left:0;
+    bottom:0;
+    width:100%;
+    background-color:blue;
+    color: white;
+    text-align:center;
+    float: bottom;
+}
+
+.num{
+    width: 3.8%;
+    height: 57px;
+    padding: 12px 12px 12px;
+}
+}
+.fc{
+    width: 3.5%;
+    height: 4;
+    float right;
+}
+}
+.tw{
+    width: 3.5%;
+    padding: 12px 12px 12px;
+}
+.youtube{
+    width: 3.5%;
+    padding: 12px 12px 12px;
+}
+.teleg{
+    width: 3.5%;
+    padding: 12px 12px 12px;
+}
+.insta{
+    width: 3.5%;
+    padding: 12px 12px 12px;
+}
+.wats{
+    width: 3.5%;
+    padding: 12px 12px 12px;
+}
+}
+.google{
+    width: 3.5%;
+    padding: 18px 16px 10px;
+}
+.loupe{
+    width: 1.5%;
+}
+.p{
+    width: 350px;
+    border: 1px solid black;
+    text-align: justify;
+    padding: 12px;
+    margin-bottom: 20px;
+}
+.iug{
+    width: 200px;
+}
+.ju{
+    width: 200px;
+}
+.cti{
+    width: 290px;
+}
+#sponsor{
+    border: 2px solid orange;
+    border-radius: 150px 150px 7px 7px;
+    width: 60%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 18px;
+    margin-bottom:70px;
+}
+#addresse{
+    border: 2px solid orangered;
+    border-radius: 7px 7px 150px 150px;
+    width: 62%;
+    display: inline-flex;
+    vertical-align: top;
+
+}
+.text{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
