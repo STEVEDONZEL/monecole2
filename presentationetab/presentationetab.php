@@ -80,17 +80,20 @@
 </div>
 </div>
 
-<section><p>présentation de l'école</br></p>
-    <p>« Nous sommes les élèves de felix moumie.</br></p>
-    <p>Notre école située a pk8 a 100m de iug, a été crée en 2018 par Mr NZOKOU ANSELME que l’on appelle tous PAPA GENTIE.
-        C’est une école maternelle et primaire qui accueille les enfants de 2 ans à 11 ans.</br></p>
+<section><h1 class="gcentre">PRESENTATION DE L'ECOLE</br></h1>
+    <video controls width="1280">
+        <source src="drap.mp4" type="video/mp4">
+    </video>
+    <p>« Nous sommes les élèves de Félix Moumié.</br></p>
+    <p>Notre école située a pk8 a 100m de iug, a été crée en 2018 par Mr TENE PASCAL que l’on appelle tous HAND OF GOD.
+        C’est une école maternelle et primaire qui accueille les enfants de 3 ans à 11 ans.</br></p>
 
-    <p>Notre Directrice s’appelle Madame MATENE MONIQUE, et les conseillers pédagogiques sont : MONSIEUR KEGNE DIMITRI  et Monsieur YONZO PASCAL. Nous avons des maîtresses et des maitres  compétentes, aimables mais fermes quand c’est nécessaire.
+    <p>Notre Directrice s’appelle Madame MATENE MONIQUE, et les conseillers pédagogiques sont : MONSIEUR KEGNE DIMITRI  et Monsieur NZOKOU ANSELME. Nous avons des maîtresses et des maitres  compétentes, aimables mais fermes quand c’est nécessaire.
         A ce personnel s’ajoute :</br></p>
 
     <p>une psychologue et une orthophoniste pour détecter et aider à résoudre nos problèmes particuliers,
         une infirmière pour nous donner les premiers soins.</br></p>
-    <p>Notre école dispose :</br></p>
+    <h3 class="mill">Notre école dispose :</br></h2>
     <ul>
         <li>d’une quarantaine de salle de classe climatisé</li>
         <li>des douches spacieuse et modernes </li>
@@ -109,7 +112,7 @@
     <p>Tous les mercredis et samedis matins, les élèves peuvent suivre des activités extra-scolaires : football, basket-ball, judo, dessin, couture, travaux manuels, théâtre…
         Nous avons à la Pépinière de II Plateaux diverses manifestations, en cours d’année : Fête de l’école(spectacle et Père-Noël), Mardi-Gras(déguisement et fanfare), Kermesse et goûter de fin d’année.
         Nous aimons notre école, elle est très agréable et nous nous y sentons bien. »</br></>
-    <p>Les élèves de L'ecole primaire Félix Moumié.</p>
+    <h3 class="centre">Les élèves de L'ecole primaire Félix Moumié.</h3>
     En choisissant l’école Félix Moumié, vous proposez à votre enfant :
     une école accueillante avec des locaux agréables et des équipements adaptés
     une équipe enseignante attentive à ses besoins

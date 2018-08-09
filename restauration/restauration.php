@@ -92,61 +92,61 @@
     <div class="container">
         <div class="mySlides">
             <div class="numbertext">1 / 6</div>
-            <img src="image/ctn5.jpg" style="width:100%">
+            <img src="../image/ctn5.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
             <div class="numbertext">2 / 6</div>
-            <img src="image/ct5.jpg" style="width:100%">
+            <img src="../image/ct5.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
             <div class="numbertext">3 / 6</div>
-            <img src="image/ctn8.jpg" style="width:100%">
+            <img src="../image/ctn8.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
             <div class="numbertext">4 / 6</div>
-            <img src="image/cantine13.jpg" style="width:100%">
+            <img src="../image/cantine13.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
             <div class="numbertext">5 / 6</div>
-            <img src="image/quan.jpg" style="width:100%">
+            <img src="../image/quan.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
             <div class="numbertext">6 / 6</div>
-            <img src="image/ga.jpg" style="width:100%">
+            <img src="../image/ga.jpg" style="width:100%">
         </div>
         <div class="mySlides">
             <div class="numbertext">1 / 6</div>
-            <img src="image/cho.jpg" style="width:100%">
+            <img src="../image/cho.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
             <div class="numbertext">2 / 6</div>
-            <img src="image/via.jpg" style="width:100%">
+            <img src="../image/via.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
             <div class="numbertext">3 / 6</div>
-            <img src="image/com.jpg" style="width:100%">
+            <img src="../image/com.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
             <div class="numbertext">4 / 6</div>
-            <img src="image/sa.jpg" style="width:100%">
+            <img src="../image/sa.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
             <div class="numbertext">5 / 6</div>
-            <img src="image/gou.jpg" style="width:100%">
+            <img src="../image/gou.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
             <div class="numbertext">6 / 6</div>
-            <img src="image/elc.jpg" style="width:100%">
+            <img src="../image/elc.jpg" style="width:100%">
         </div>
 
         <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -158,40 +158,40 @@
 
         <div class="row">
             <div class="column">
-                <img class="demo cursor" src="image/ctn5.jpg" style="width:65%" onclick="currentSlide(1)" alt="salle des primaires">
+                <img class="demo cursor" src="../image/ctn5.jpg" style="width:65%" onclick="currentSlide(1)" alt="salle des primaires">
             </div>
             <div class="column">
-                <img class="demo cursor" src="image/ct5.jpg" style="width:65%" onclick="currentSlide(2)" alt="seconde salle des primaire">
+                <img class="demo cursor" src="../image/ct5.jpg" style="width:65%" onclick="currentSlide(2)" alt="seconde salle des primaire">
             </div>
             <div class="column">
-                <img class="demo cursor" src="image/ctn8.jpg" style="width:65%" onclick="currentSlide(3)" alt="salles des maternelles ">
+                <img class="demo cursor" src="../image/ctn8.jpg" style="width:65%" onclick="currentSlide(3)" alt="salles des maternelles ">
             </div>
             <div class="column">
-                <img class="demo cursor" src="image/cantine13.jpg" style="width:65%" onclick="currentSlide(4)" alt="seconde salle des maternelles">
+                <img class="demo cursor" src="../image/cantine13.jpg" style="width:65%" onclick="currentSlide(4)" alt="seconde salle des maternelles">
             </div>
             <div class="column">
-                <img class="demo cursor" src="image/quan.jpg" style="width:65%" onclick="currentSlide(5)" alt="cantine ">
+                <img class="demo cursor" src="../image/quan.jpg" style="width:65%" onclick="currentSlide(5)" alt="cantine ">
             </div>
             <div class="column">
-                <img class="demo cursor" src="image/ga.jpg" style="width:65%" onclick="currentSlide(6)" alt="cantine a dessert">
+                <img class="demo cursor" src="../image/ga.jpg" style="width:65%" onclick="currentSlide(6)" alt="cantine a dessert">
             </div>
             <div class="column">
-                <img class="demo cursor" src="image/cho.jpg" style="width:65%" onclick="currentSlide(7)" alt="menu du lundi">
+                <img class="demo cursor" src="../image/cho.jpg" style="width:65%" onclick="currentSlide(7)" alt="menu du lundi">
             </div>
             <div class="column">
-                <img class="demo cursor" src="image/via.jpg" style="width:65%" onclick="currentSlide(8)" alt="menu du mardi">
+                <img class="demo cursor" src="../image/via.jpg" style="width:65%" onclick="currentSlide(8)" alt="menu du mardi">
             </div>
             <div class="column">
-                <img class="demo cursor" src="image/com.jpg" style="width:65%" onclick="currentSlide(9)" alt="Menu du mercredi">
+                <img class="demo cursor" src="../image/com.jpg" style="width:65%" onclick="currentSlide(9)" alt="Menu du mercredi">
             </div>
             <div class="column">
-                <img class="demo cursor" src="image/sa.jpg" style="width:65%" onclick="currentSlide(10)" alt="menu du jeudi">
+                <img class="demo cursor" src="../image/sa.jpg" style="width:65%" onclick="currentSlide(10)" alt="menu du jeudi">
             </div>
             <div class="column">
-                <img class="demo cursor" src="image/gou.jpg" style="width:65%" onclick="currentSlide(11)" alt="élève en plein dégustation">
+                <img class="demo cursor" src="../image/gou.jpg" style="width:65%" onclick="currentSlide(11)" alt="élève en plein dégustation">
             </div>
             <div class="column">
-                <img class="demo cursor" src="image/elc.jpg" style="width:65%" onclick="currentSlide(12)" alt="èleève qui savour nos plats">
+                <img class="demo cursor" src="../image/elc.jpg" style="width:65%" onclick="currentSlide(12)" alt="èleève qui savour nos plats">
             </div>
         </div>
     </div>

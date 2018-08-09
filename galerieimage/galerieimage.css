@@ -1,8 +1,5 @@
-
-
-
 body{
-    font-family: "time new roman",serif;
+    font-family:cursive;
     font-size: 18px;
     font-style: normal;
     line-height: 1.5em;
@@ -10,6 +7,7 @@ body{
     background-color: burlywood;
 }
 header{
+    font-family: cursive;
     background-color:;
     border:1px;
     border-style: inset;
@@ -75,9 +73,11 @@ header{
 h3 {
     text-align: center;
     margin-top: 14px;
+    color: white;
 }
 h1{
     text-align: center;
+    color: white
 }
 .cinq {
     text-align: right;
@@ -104,7 +104,7 @@ h1{
     border-radius:5px;
     background: burlywood;
     text-align:center;
-    background-image: url("image/so.jpg");
+    background-image: url("../image/so.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -270,7 +270,69 @@ li a.active{
 a:visited {
     color: burlywood;
 }
+.topnav {                                                                   /*pour la barre de recherche et sa loupe*/
+    overflow: hidden;
+    background-color: #e9e9e9;
+    float: right;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
 
+.topnav:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav.active {
+    background-color: #2196F3;
+    color: white;
+}
+
+.topnav .search-container {
+    float: right;
+}
+
+.topnav input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+}
+
+.topnav .search-container button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+
+.topnav .search-container button:hover {
+    background: #ccc;
+}
+
+@media screen and (max-width: 600px) {
+    .topnav .search-container {
+        float: none;
+    }
+    .topnav a, .topnav input[type=text], .topnav .search-container button {
+        float: none;
+        display: block;
+        text-align: left;
+        width: 100%;
+        margin: 0;
+        padding: 14px;
+    }
+    .topnav input[type=text] {
+        border: 1px solid #ccc;
+    }  }
 .responsive {
     padding: 0 6px;
     float: left;

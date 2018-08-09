@@ -87,7 +87,7 @@
              <p>Un formulaire avec coupon-réponse est envoyé au début de chaque semaine vous informant qu’il serait pertinent pour votre enfant de
                  bénéficier de cette période de travail complémentaire pour l’aider à s’améliorer dans ses apprentissages académiques. L’enseignante
                  ou l’enseignant de votre enfant vous indiquera sur ce formulaire le jour ainsi que les heures exactes de cette période.</p></br></br>
-             <img src="image/sc.jpg" class="centre">
+             <img src="../image/sc.jpg" class="centre">
              <h1>Aide aux devoirs</h1></br>
              <p>L’aide aux devoirs est offerte aux élèves qui répondent aux critères suivants :</p>
              <ul>

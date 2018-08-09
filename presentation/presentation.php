@@ -83,7 +83,7 @@
 <section>
     </div>
 
-    <img src="image/pro.jpg" title="le directeur" class="pro" />
+    <img src="../image/pro.jpg" title="le directeur" class="pro" />
     <h1 class="centre">MOT DU DIRECTEUR</h1>
     <p>Depuis son ouverture en septembre 2010, félix moumié , s’efforce d’être une école qui enseigne
         et qui éduque en complément del’éducation reçue à la maison. L’excellence éducative pour tous
@@ -118,22 +118,22 @@
 <div id="bas" >
     <div id="sponsor">
         <h2><b>nos partenaires</b></h2>
-        <img src="image/iug.jpg" class="iug"/>
-        <img src="image/ju.jpg" class="ju"/>
-        <img src="image/cti.png" class="cti"/>
-        <img src="image/cam.jpg" class="partenaires"/>
-        <img src="image/ub.jpg" class="partenaires"/>
+        <img src="../image/iug.jpg" class="iug"/>
+        <img src="../image/ju.jpg" class="ju"/>
+        <img src="../image/cti.png" class="cti"/>
+        <img src="../image/cam.jpg" class="partenaires"/>
+        <img src="../image/ub.jpg" class="partenaires"/>
     </div>
     <div id="addresse">
         <p>
-            <a href="mailto:cticamer@yahoo.fr"title="soumetez tous vos préocupations"><img src="image/ma.jpg" class="num"></a>
+            <a href="mailto:cticamer@yahoo.fr"title="soumetez tous vos préocupations"><img src="../image/ma.jpg" class="num"></a>
 
-            <a href=stevedonzelt@yahoo.fr" title="pour observer nos publications" ><img src="image/wa.png" class="wats"></a>
-            <a href=stevedonzelt@yahoo.fr" title="pour observer nos publications" ><img src="image/yo.png" class="youtube"></a>
-            <a href=stevedonzelt@yahoo.fr" title="pour observer nos publications" ><img src="image/tel.jpg" class="teleg"></a>
-            <a href=stevedonzelt@yahoo.fr" title="pour observer nos publications" ><img src="image/ins.jpg" class="insta"></a>
-            <a href=stevedonzelt@yahoo.fr" title="pour observer nos publications" ><img src="image/linkedln.png" class="google"></a>
-            <a href="http://www.facebook.fr" title="pour observer nos publications" ><img src="image/fcc.jpg" class="fc"></a>
+            <a href=stevedonzelt@yahoo.fr" title="pour observer nos publications" ><img src="../image/wa.png" class="wats"></a>
+            <a href=stevedonzelt@yahoo.fr" title="pour observer nos publications" ><img src="../image/yo.png" class="youtube"></a>
+            <a href=stevedonzelt@yahoo.fr" title="pour observer nos publications" ><img src="../image/tel.jpg" class="teleg"></a>
+            <a href=stevedonzelt@yahoo.fr" title="pour observer nos publications" ><img src="../image/ins.jpg" class="insta"></a>
+            <a href=stevedonzelt@yahoo.fr" title="pour observer nos publications" ><img src="../image/linkedln.png" class="google"></a>
+            <a href="http://www.facebook.fr" title="pour observer nos publications" ><img src="../image/fcc.jpg" class="fc"></a>
         </p>
     </div>
     <p>contact information : <a href="mailto:stevedonzelt@yahoo.fr">mon mail:stevedonzelt@yahoo.fr</a></p>

@@ -1,7 +1,525 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2f6ff0c-0f45-4349-833f-32fb5499fc99" name="Default" comment="" />
+    <list default="true" id="b2f6ff0c-0f45-4349-833f-32fb5499fc99" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\activitespara\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\activitespara\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\activitespara\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\activitespara\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\activitespara\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\activitespara\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\activitespara\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\activitespara\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\activitespara\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\activitespara\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\activitespara\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\activitespara\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\activitespara\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\actualite\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\actualite\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\actualite\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\actualite\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\actualite\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\actualite\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\actualite\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\actualite\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\actualite\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\actualite\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\actualite\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\actualite\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\actualite\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\admission\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\admission\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\admission\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\admission\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\admission\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\admission\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\admission\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\admission\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\admission\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\admission\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\admission\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\admission\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\admission\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\connexion\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\connexion\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\connexion\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\connexion\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\connexion\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\connexion\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\connexion\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\connexion\image\li.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\connexion\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\connexion\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\connexion\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\connexion\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\connexion\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\connexion\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\dossiersins\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\dossiersins\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\dossiersins\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\dossiersins\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\dossiersins\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\dossiersins\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\dossiersins\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\dossiersins\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\dossiersins\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\dossiersins\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\dossiersins\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\dossiersins\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\dossiersins\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\eleves\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\eleves\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\eleves\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\eleves\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\eleves\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\eleves\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\eleves\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\eleves\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\eleves\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\eleves\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\eleves\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\eleves\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\eleves\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\fraisadmis\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\fraisadmis\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\fraisadmis\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\fraisadmis\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\fraisadmis\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\fraisadmis\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\fraisadmis\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\fraisadmis\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\fraisadmis\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\fraisadmis\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\fraisadmis\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\fraisadmis\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\fraisadmis\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\427183456-barrette-restaurant-universitaire-cantine-scolaire-eau-potable.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\5658_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\6095307-9098687.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\Cantine-13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\Cantine5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\F0WGMH.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\HTB18dLEMXXXXXaiXFXXq6xXFXXXA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\HTB1YjjAMXXXXXX8XFXXq6xXFXXXr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\HTB1grjUMXXXXXafXXXXq6xXFXXXy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\HTB1j_6GMXXXXXc2XpXXq6xXFXXXK.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\NORDIC_Ecole-primaire-Sans-Frontieres_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\batad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\bi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\bus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\caja-emparedado-vegetales-agua-sana-foto-almacenada_csp49021426.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\cape-town-afrique-du-sud-african-myciti-transport-public-bus-garcon-noir-de-luniforme-scolaire-etudiant-equitation-accueil-fille-amis-adole.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\cti.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\di.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\ec.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\eco.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\g.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\ga.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\hesperia-playa-el-agua.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\imagesEXO4YXCD.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\imagesO4PM89BN.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\imagesZ68JUPLX.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\p.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\pdMIpWRYqIrnJMY-1600x900-noPad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\pr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\q.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\quan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\recrea.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\sa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\sans-tiddf.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\sans-titre.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\sc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\se.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\si.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\infospra\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\infospra\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\infospra\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\infospra\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\infospra\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\infospra\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\infospra\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\infospra\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\infospra\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\infospra\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\infospra\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\infospra\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\infospra\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\image\face.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\image\so.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\image\tou.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\image\uba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\image\wa.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\image\yo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\image\face.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\image\so.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\image\tou.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\image\uba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\image\wa.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\image\yo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\image\face.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\image\so.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\image\tou.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\image\uba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\image\wa.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\image\yo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\face.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\sc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\so.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\tou.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\uba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\wa.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\image\yo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\face.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\sc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\so.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\tou.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\uba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\wa.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\image\yo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\image\face.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\image\so.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\image\tou.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\image\uba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\image\wa.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\image\yo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\image\face.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\image\so.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\image\tou.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\image\uba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\image\wa.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\image\yo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\36861987_1718682894846730_4144399117130399744_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\37780013-enfant-tenant-planète-3d-dans-les-mains-contre-printemps-vert-arrière-plan-terre-concept-de-vacances-de-.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\43694799-aquarelle-peinte-livre-contenant-tout-un-monde.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\IMG_20180201_172752.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\Obligatory-CSS3-UI-Nav-CSSDeck.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\Pure-CSS3-Iconset-CSSDeck.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\ac.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\ace.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\aide_aux_devoirs_by_sophilosophie-d3jqrpp.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\arrow-play.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\asic.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\be.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\bi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\bo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\bouton-call-to-action-avec-css3-300x225.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\business-381.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\by.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\df.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\ec.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\face.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\fo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\g.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\ga.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\go.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\h.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\ha.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\he.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\i.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\j.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\k.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\l.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\li.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\loup.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\p.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\payment-flat.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\photo_38133254_vue-de-côté-de-petits-enfants-montrant-monde-dans-la-classe.htm" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\pr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\pro.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\q.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\r.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\re.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\sa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\sans-tiddf.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\sc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\so.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\social-media-2112.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\stock-vector-connecting-people-124443277.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\stock-vector-creative-people-logo-design-template-with-circle-624961109.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\stock-vector-magnifying-glass-realistic-isolated-on-checkered-background-vector-illustration-538458298.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\svg-icons.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\svg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\th8OMYDFV4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\thAYTWBJW5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\tou.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\trois.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\uba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\urss.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\very_emotional_emoticons_lazy.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\wa.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\yo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\image\z.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\image\face.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\image\so.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\image\tou.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\image\uba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\image\wa.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\image\yo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\image\face.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\image\so.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\image\tou.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\image\uba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\image\wa.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\image\yo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\image\face.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\image\so.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\image\tou.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\image\uba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\image\wa.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\image\yo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\cantine13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\cho.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\com.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\ct5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\ctn5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\ctn8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\elc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\face.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\ga.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\gou.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\hesperia-playa-el-agua.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\quan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\sa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\so.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\tou.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\uba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\via.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\wa.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\image\yo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\image\cam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\image\cti.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\image\face.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\image\fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\image\fce.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\image\ins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\image\iug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\image\ju.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\image\linkedln.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\image\ma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\image\pm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\image\so.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\image\tel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\image\tou.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\image\tw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\image\ub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\image\uba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\image\wa.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\image\yo.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/sa.jpg" afterPath="$PROJECT_DIR$/image/sa.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/activitespara/activitespara.css" afterPath="$PROJECT_DIR$/activitespara/activitespara.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/actualite/actualite.css" afterPath="$PROJECT_DIR$/actualite/actualite.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admission/admission.css" afterPath="$PROJECT_DIR$/admission/admission.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/connexion/connexion.css" afterPath="$PROJECT_DIR$/connexion/connexion.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dossiersins/dossiersins.css" afterPath="$PROJECT_DIR$/dossiersins/dossiersins.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eleves/eleves.css" afterPath="$PROJECT_DIR$/eleves/eleves.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fraisadmis/fraisadmis.css" afterPath="$PROJECT_DIR$/fraisadmis/fraisadmis.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/galerieimage/galerieimage.css" afterPath="$PROJECT_DIR$/galerieimage/galerieimage.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/galerieimage/galerieimage.php" afterPath="$PROJECT_DIR$/galerieimage/galerieimage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/infospra/infospra.css" afterPath="$PROJECT_DIR$/infospra/infospra.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inscription/inscription.css" afterPath="$PROJECT_DIR$/inscription/inscription.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inscription/inscription.php" afterPath="$PROJECT_DIR$/inscription/inscription.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/listefourni/listefourni.css" afterPath="$PROJECT_DIR$/listefourni/listefourni.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maternelle/maternelle.css" afterPath="$PROJECT_DIR$/maternelle/maternelle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/methode/methode.css" afterPath="$PROJECT_DIR$/methode/methode.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/methode/methode.php" afterPath="$PROJECT_DIR$/methode/methode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monecole.css" afterPath="$PROJECT_DIR$/monecole.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nosprojets/nosprojets.css" afterPath="$PROJECT_DIR$/nosprojets/nosprojets.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parentdeleg/parentdeleg.css" afterPath="$PROJECT_DIR$/parentdeleg/parentdeleg.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parentdeleg/parentdeleg.php" afterPath="$PROJECT_DIR$/parentdeleg/parentdeleg.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pedagogie/pedagogie.css" afterPath="$PROJECT_DIR$/pedagogie/pedagogie.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/presentation/presentation.css" afterPath="$PROJECT_DIR$/presentation/presentation.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/presentation/presentation.php" afterPath="$PROJECT_DIR$/presentation/presentation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/presentationetab/presentationetab.css" afterPath="$PROJECT_DIR$/presentationetab/presentationetab.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/presentationetab/presentationetab.php" afterPath="$PROJECT_DIR$/presentationetab/presentationetab.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projetaven/projetaven.css" afterPath="$PROJECT_DIR$/projetaven/projetaven.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reglementint/reglement int.css" afterPath="$PROJECT_DIR$/reglementint/reglement int.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restauration/restauration.php" afterPath="$PROJECT_DIR$/restauration/restauration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resultatexam/resultatexam.css" afterPath="$PROJECT_DIR$/resultatexam/resultatexam.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="monecole.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -22,105 +540,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="198" column="41" selection-start-line="198" selection-start-column="41" selection-end-line="198" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="presentation.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/presentation/presentation.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="actualite.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/actualite/actualite.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.269231">
-              <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="restauration.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/restauration/restauration.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.346154">
-              <caret line="89" column="107" selection-start-line="89" selection-start-column="107" selection-end-line="89" selection-end-column="107" />
+            <state vertical-scroll-proportion="-0.797491">
+              <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
               <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#5;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#6;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#7;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#8;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#9;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#10;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#11;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#2;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#3;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#4;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#5;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#6;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#7;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#8;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#9;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#10;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#11;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="restauration.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/restauration/restauration.css">
+      <file leaf-file-name="monecole.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monecole.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="400" column="18" selection-start-line="400" selection-start-column="18" selection-end-line="400" selection-end-column="18" />
+              <caret line="210" column="22" selection-start-line="210" selection-start-column="22" selection-end-line="210" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fraisadmis.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fraisadmis/fraisadmis.php">
+      <file leaf-file-name="resultatexam.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resultatexam/resultatexam.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.5896058">
-              <caret line="85" column="44" selection-start-line="85" selection-start-column="44" selection-end-line="85" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="229" column="14" selection-start-line="229" selection-start-column="14" selection-end-line="229" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fraisadmis.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fraisadmis/fraisadmis.css">
+      <file leaf-file-name="resultatexam.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resultatexam/resultatexam.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="350" column="1" selection-start-line="350" selection-start-column="1" selection-end-line="350" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="actualite.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/actualite/actualite.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="9.923077">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -136,32 +592,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/maternelle.css" />
-        <option value="$PROJECT_DIR$/maternelle.php" />
-        <option value="$PROJECT_DIR$/galerieimage/restauration.css" />
-        <option value="$PROJECT_DIR$/restauration.php" />
-        <option value="$PROJECT_DIR$/fraisadmis.php" />
-        <option value="$PROJECT_DIR$/fraisadmis.css" />
-        <option value="$PROJECT_DIR$/nosprojets/nosprojets.css" />
-        <option value="$PROJECT_DIR$/nosprojets/nosprojets.php" />
-        <option value="$PROJECT_DIR$/methode/methode.css" />
-        <option value="$PROJECT_DIR$/actualite.css" />
-        <option value="$PROJECT_DIR$/actualité/actualite.css" />
-        <option value="$PROJECT_DIR$/actualité/actualite.php" />
-        <option value="$PROJECT_DIR$/reglementint/reglement int.css" />
-        <option value="$PROJECT_DIR$/connexion.php" />
-        <option value="$PROJECT_DIR$/connexion.css" />
         <option value="$PROJECT_DIR$/inscription/formulaire-inscription.php" />
         <option value="$PROJECT_DIR$/pedagogie.php" />
         <option value="$PROJECT_DIR$/pedagogie.css" />
         <option value="$PROJECT_DIR$/infospra.php" />
         <option value="$PROJECT_DIR$/infospra.css" />
-        <option value="$PROJECT_DIR$/pedagogie/pedagogie.css" />
-        <option value="$PROJECT_DIR$/infospra/infospra.css" />
-        <option value="$PROJECT_DIR$/activitespara/activitespara.css" />
         <option value="$PROJECT_DIR$/activitespara/activitespara.php" />
         <option value="$PROJECT_DIR$/admission/admission.php" />
         <option value="$PROJECT_DIR$/dossiersins/dossiersins.php" />
@@ -169,27 +610,45 @@
         <option value="$PROJECT_DIR$/infospra/infospra.php" />
         <option value="$PROJECT_DIR$/listefourni/listefourni.php" />
         <option value="$PROJECT_DIR$/maternelle/maternelle.php" />
-        <option value="$PROJECT_DIR$/methode/methode.php" />
-        <option value="$PROJECT_DIR$/parentdeleg/parentdeleg.php" />
         <option value="$PROJECT_DIR$/pedagogie/pedagogie.php" />
-        <option value="$PROJECT_DIR$/presentationetab/presentationetab.php" />
         <option value="$PROJECT_DIR$/projetaven/projetaven.php" />
         <option value="$PROJECT_DIR$/reglementint/reglementint.php" />
         <option value="$PROJECT_DIR$/resultatexam/resultatexam.php" />
+        <option value="$PROJECT_DIR$/monecole.js" />
+        <option value="$PROJECT_DIR$/connexion/connexion.php" />
+        <option value="$PROJECT_DIR$/actualite/actualite.php" />
+        <option value="$PROJECT_DIR$/restauration/restauration.css" />
+        <option value="$PROJECT_DIR$/fraisadmis/fraisadmis.php" />
+        <option value="$PROJECT_DIR$/parentdeleg/parentdeleg.php" />
+        <option value="$PROJECT_DIR$/presentationetab/presentationetab.css" />
+        <option value="$PROJECT_DIR$/presentationetab/presentationetab.php" />
+        <option value="$PROJECT_DIR$/activitespara/activitespara.css" />
+        <option value="$PROJECT_DIR$/actualite/actualite.css" />
+        <option value="$PROJECT_DIR$/admission/admission.css" />
+        <option value="$PROJECT_DIR$/connexion/connexion.css" />
+        <option value="$PROJECT_DIR$/dossiersins/dossiersins.css" />
+        <option value="$PROJECT_DIR$/eleves/eleves.css" />
+        <option value="$PROJECT_DIR$/fraisadmis/fraisadmis.css" />
         <option value="$PROJECT_DIR$/galerieimage/galerieimage.css" />
         <option value="$PROJECT_DIR$/galerieimage/galerieimage.php" />
+        <option value="$PROJECT_DIR$/infospra/infospra.css" />
+        <option value="$PROJECT_DIR$/inscription/inscription.css" />
         <option value="$PROJECT_DIR$/inscription/inscription.php" />
-        <option value="$PROJECT_DIR$/connexion/connexion.css" />
-        <option value="$PROJECT_DIR$/monecole.js" />
+        <option value="$PROJECT_DIR$/listefourni/listefourni.css" />
+        <option value="$PROJECT_DIR$/maternelle/maternelle.css" />
+        <option value="$PROJECT_DIR$/methode/methode.css" />
+        <option value="$PROJECT_DIR$/methode/methode.php" />
+        <option value="$PROJECT_DIR$/nosprojets/nosprojets.css" />
+        <option value="$PROJECT_DIR$/parentdeleg/parentdeleg.css" />
+        <option value="$PROJECT_DIR$/pedagogie/pedagogie.css" />
+        <option value="$PROJECT_DIR$/presentation/presentation.php" />
+        <option value="$PROJECT_DIR$/presentation/presentation.css" />
+        <option value="$PROJECT_DIR$/projetaven/projetaven.css" />
+        <option value="$PROJECT_DIR$/reglementint/reglement int.css" />
+        <option value="$PROJECT_DIR$/restauration/restauration.php" />
+        <option value="$PROJECT_DIR$/resultatexam/resultatexam.css" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/monecole.css" />
-        <option value="$PROJECT_DIR$/connexion/connexion.php" />
-        <option value="$PROJECT_DIR$/presentation/presentation.php" />
-        <option value="$PROJECT_DIR$/actualite/actualite.php" />
-        <option value="$PROJECT_DIR$/restauration/restauration.php" />
-        <option value="$PROJECT_DIR$/restauration/restauration.css" />
-        <option value="$PROJECT_DIR$/fraisadmis/fraisadmis.css" />
-        <option value="$PROJECT_DIR$/fraisadmis/fraisadmis.php" />
       </list>
     </option>
   </component>
@@ -233,6 +692,91 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="monecole">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="monecole">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="presentation">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="monecole">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="methode">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="monecole">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="inscription">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="monecole">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="eleves">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="monecole">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT=".idea">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -457,6 +1001,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="monecole" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="monecole" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="galerieimage" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -561,91 +1119,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="monecole">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="monecole">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="presentation">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="monecole">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="methode">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="monecole">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="inscription">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="monecole">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="eleves">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="monecole">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT=".idea">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -703,10 +1176,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31013617" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36686838" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -742,318 +1215,62 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/presentation/presentation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inscription/inscription.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eleves/eleves.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="306" column="23" selection-start-line="306" selection-start-column="23" selection-end-line="306" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/presentation/presentation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dossiersins/dossiersins.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="298" column="1" selection-start-line="298" selection-start-column="1" selection-end-line="298" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/presentationetab/presentationetab.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="305" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="306" selection-end-column="1" />
+          <caret line="313" column="20" selection-start-line="313" selection-start-column="20" selection-end-line="313" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admission/admission.css">
+    <entry file="file://$USER_HOME$/Desktop/Nouveau dossier/monecole.css/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="306" column="1" selection-start-line="306" selection-start-column="1" selection-end-line="306" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/listefourni/listefourni.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="298" column="1" selection-start-line="298" selection-start-column="1" selection-end-line="298" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parentdeleg/parentdeleg.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="298" column="1" selection-start-line="298" selection-start-column="1" selection-end-line="298" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resultatexam/resultatexam.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="306" column="1" selection-start-line="306" selection-start-column="1" selection-end-line="306" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projetaven/projetaven.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="305" column="22" selection-start-line="305" selection-start-column="22" selection-end-line="305" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3321918">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nosprojets/nosprojets.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="305" column="23" selection-start-line="305" selection-start-column="23" selection-end-line="305" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reglementint/reglement int.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="177" column="0" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infospra/infospra.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="377" column="0" selection-start-line="377" selection-start-column="0" selection-end-line="377" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/methode/methode.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="285" column="22" selection-start-line="285" selection-start-column="22" selection-end-line="285" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pedagogie/pedagogie.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="377" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="377" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activitespara/activitespara.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3046595">
-          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activitespara/activitespara.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2123288">
-          <caret line="207" column="8" selection-start-line="207" selection-start-column="8" selection-end-line="207" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admission/admission.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4265233">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dossiersins/dossiersins.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45698926">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eleves/eleves.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33512545">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infospra/infospra.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1923075">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/listefourni/listefourni.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2240143">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maternelle/maternelle.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.153847">
-          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/methode/methode.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6153846">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parentdeleg/parentdeleg.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2849462">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pedagogie/pedagogie.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3655914">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/presentationetab/presentationetab.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.5">
+        <state vertical-scroll-proportion="-7.8461537">
           <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projetaven/projetaven.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1923075">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/image/b.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nosprojets/nosprojets.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="83" column="39" selection-start-line="83" selection-start-column="39" selection-end-line="83" selection-end-column="39" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/image/asic.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reglementint/reglementint.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6153846">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/image/ace.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resultatexam/resultatexam.php">
+    <entry file="file://$PROJECT_DIR$/activitespara/activitespara.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/galerieimage/galerieimage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="296" column="1" selection-start-line="296" selection-start-column="1" selection-end-line="296" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/galerieimage/galerieimage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="156" column="2" selection-start-line="156" selection-start-column="2" selection-end-line="156" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inscription/inscription.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7311828">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inscription/inscription.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="33" />
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monecole.js">
+    <entry file="file://$PROJECT_DIR$/activitespara/activitespara.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.37842464">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/actualite/actualite.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="198" column="41" selection-start-line="198" selection-start-column="41" selection-end-line="198" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monecole.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="481" column="24" selection-start-line="481" selection-start-column="24" selection-end-line="481" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/connexion/connexion.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="390" column="0" selection-start-line="369" selection-start-column="0" selection-end-line="390" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/presentation/presentation.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/connexion/connexion.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.769231">
-          <caret line="86" column="43" selection-start-line="86" selection-start-column="43" selection-end-line="86" selection-end-column="43" />
+        <state vertical-scroll-proportion="-54.26923">
+          <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1061,64 +1278,71 @@
     <entry file="file://$PROJECT_DIR$/actualite/actualite.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/actualite/actualite.php">
+    <entry file="file://$PROJECT_DIR$/admission/admission.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.269231">
-          <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        <state vertical-scroll-proportion="-1.3154122">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/presentation/presentation.php">
+    <entry file="file://$PROJECT_DIR$/admission/admission.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693">
-          <caret line="82" column="9" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.37842464">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/restauration/restauration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.346154">
-          <caret line="89" column="107" selection-start-line="89" selection-start-column="107" selection-end-line="89" selection-end-column="107" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#5;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#6;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#7;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#8;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#9;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#10;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#11;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#3;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#4;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#5;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#6;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#7;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#8;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#9;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#10;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#11;n#div#13;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/restauration/restauration.css">
+    <entry file="file://$PROJECT_DIR$/connexion/connexion.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="400" column="18" selection-start-line="400" selection-start-column="18" selection-end-line="400" selection-end-column="18" />
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connexion/connexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9247311">
+          <caret line="86" column="43" selection-start-line="86" selection-start-column="43" selection-end-line="86" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eleves/eleves.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="68.76923">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eleves/eleves.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40753424">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dossiersins/dossiersins.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45698926">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dossiersins/dossiersins.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32020548">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -1126,16 +1350,267 @@
     <entry file="file://$PROJECT_DIR$/fraisadmis/fraisadmis.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="350" column="1" selection-start-line="350" selection-start-column="1" selection-end-line="350" selection-end-column="1" />
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fraisadmis/fraisadmis.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.5896058">
+        <state vertical-scroll-proportion="-1.0412186">
           <caret line="85" column="44" selection-start-line="85" selection-start-column="44" selection-end-line="85" selection-end-column="44" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/galerieimage/galerieimage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="106" column="30" selection-start-line="106" selection-start-column="30" selection-end-line="106" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/galerieimage/galerieimage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.9444444">
+          <caret line="152" column="12" selection-start-line="152" selection-start-column="12" selection-end-line="152" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infospra/infospra.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infospra/infospra.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3154122">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inscription/inscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.538462">
+          <caret line="135" column="7" selection-start-line="135" selection-start-column="7" selection-end-line="135" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listefourni/listefourni.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listefourni/listefourni.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4265233">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inscription/inscription.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32020548">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maternelle/maternelle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maternelle/maternelle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-52.96154">
+          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nosprojets/nosprojets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.528674">
+          <caret line="83" column="39" selection-start-line="83" selection-start-column="39" selection-end-line="83" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nosprojets/nosprojets.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32020548">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/methode/methode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0">
+          <caret line="89" column="26" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/methode/methode.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15582192">
+          <caret line="110" column="30" selection-start-line="110" selection-start-column="30" selection-end-line="110" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parentdeleg/parentdeleg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.7419355">
+          <caret line="90" column="9" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parentdeleg/parentdeleg.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32020548">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pedagogie/pedagogie.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="105" column="30" selection-start-line="105" selection-start-column="30" selection-end-line="105" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pedagogie/pedagogie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2849462">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/presentation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/presentation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-88.26923">
+          <caret line="135" column="98" selection-start-line="135" selection-start-column="98" selection-end-line="135" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/presentation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32020548">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetaven/projetaven.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="27.576923">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetaven/projetaven.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32020548">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reglementint/reglementint.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reglementint/reglement int.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24315068">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restauration/restauration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0">
+          <caret line="193" column="49" selection-start-line="193" selection-start-column="49" selection-end-line="193" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restauration/restauration.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30136988">
+          <caret line="400" column="18" selection-start-line="400" selection-start-column="18" selection-end-line="400" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resultatexam/resultatexam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="9.923077">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resultatexam/resultatexam.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="229" column="14" selection-start-line="229" selection-start-column="14" selection-end-line="229" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monecole.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="210" column="22" selection-start-line="210" selection-start-column="22" selection-end-line="210" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.797491">
+          <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

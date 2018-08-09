@@ -79,3 +79,13 @@
     </div>
 </div>
 </div>
+<script>
+    var age = parseInt(prompt("Entrez votre age (de 7 à 70 ans) :"));
+    if (7 <= age && age <= 70){
+        alert('Vous etes apte a naviguer sur cette page.');
+    } else if(age<7 && age>70) {
+        alert("vous netes pas apte a naviguer sur cette page" + age + ' !');
+    } else {
+        alert("l'age n'existe pas.");
+    }
+</script>

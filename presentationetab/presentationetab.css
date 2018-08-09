@@ -1,8 +1,9 @@
 body{
     font-family:cursive;
-    font-size: 18px;
+    font-size: 30px;
     font-style: normal;
     text-align: center;
+    background-color: burlywood;
 }
 header{
     border:1px;
@@ -305,3 +306,10 @@ section{
     padding: 25px 25px 25px 25px;
     text-align: justify;
 }
+ .gcentre{
+    text-align: center;
+    color: #2196F3;
+}
+ .mill{
+     color: #2196F3;
+ }

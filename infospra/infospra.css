@@ -14,7 +14,7 @@ header{
     border-style: inset;
     border-color:white;
     margin-bottom: 12px;
-    background-image: url("image/pm.jpg");
+    background-image: url("../image/pm.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: local;

@@ -9,7 +9,7 @@ header{
     border-style: inset;
     border-color:white;
     margin-bottom: 12px;
-    background: url('image/pm.jpg');
+    background: url('../image/pm.jpg');
     background-size: 100%;
 }
 
