@@ -109,6 +109,30 @@ color: white;
 .nav_droite a:active{
     color: blueviolet;
 }
+
+.icon-bar {
+    width: 100%;
+    background-color: #080808;
+    overflow: auto;
+}
+
+.icon-bar a {
+    float: left;
+    width: 20%;
+    text-align: center;
+    padding: 12px 0;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 30px;
+}
+
+.icon-bar a:hover {
+    background-color: #4CAF50;
+}
+
+.active {
+    background-color: ;
+}
 .bloc_partenaire{
     display: block;
     height: 400px;

@@ -90,7 +90,6 @@
     </div>
 </div>
 <section>
-
     <h1>ECOLE PRIMAIRE Félix Moumié</h1></br>
     <p>Félix moumié est une école de référence privée et laïc  pour la formation et l’éducation de vos enfants qui sont nos poulains donc nous ne cessons de leurs inculquer des valeurs moraux et civiques assez soutenue et dense. Duran ces années nous leurs apprendrons  des techniques créatives, logiques etc. des exercices de psychologie, technique, adapté aux écoles modernes, permettant à l’enfant de développer des facultés mentales intellectuelles et morale, dans  le seule but de le préparer à leurs cheminement vers le second cycle.
     </p></section></br>
@@ -157,6 +156,13 @@
                 </td>
             </tr>
         </table>
+        <div class="icon-bar">
+            <a class="active" href="#"><i class="fa fa-home"></i></a>
+            <a href="#"><i class="fa fa-facebook"></i></a>
+            <a href="#"><i class="fa fa-whatsapp"></i></a>
+            <a href="#"><i class="fa fa-envelope"></i></a>
+            <a href="#"><i class="fa fa-google"></i></a>
+        </div>
         </div>
     <div class="auteur" style=" width: 100%;border: 1px solid black; background-color: #101010; text-align: center;  color: white; font-size: 20px; font-family: time new roman, serif">
         <ul style="list-style-type: none">
