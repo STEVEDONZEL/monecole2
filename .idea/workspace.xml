@@ -2,57 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2f6ff0c-0f45-4349-833f-32fb5499fc99" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\activitespara\activitespara.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\activitespara\activitespara.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\actualite\actualite.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\actualite\actualite.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\admission\admission.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\admission\admission.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\connexion\connexion.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\connexion\connexion.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\dossiersins\dossiersins.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\dossiersins\dossiersins.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\drap.mp4" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\eleves\eleves.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\eleves\eleves.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\fraisadmis\fraisadmis.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\fraisadmis\fraisadmis.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\galerieimage.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\galerieimage\galerieimage.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\infospra\infospra.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\infospra\infospra.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\inscription.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\inscription\inscription.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\listefourni.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\listefourni\listefourni.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\maternelle.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\maternelle\maternelle.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\methode.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\methode\methode.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\monecole.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\monecole.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\nosprojets.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\nosprojets\nosprojets.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\parentdeleg.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\parentdeleg\parentdeleg.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\pedagogie.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\pedagogie\pedagogie.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\presentation.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\presentation.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentation\presentation.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\presentationetab.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\presentationetab\presentationetab.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\projetaven.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\projetaven\projetaven.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\reglement int.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\reglementint\reglementint.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\restauration.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\restauration\restauration.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\resultatexam.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\monecole\resultatexam\resultatexam.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css_ecole/monecole.css" afterPath="$PROJECT_DIR$/css_ecole/monecole.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="monecole.iws" />
@@ -78,9 +29,12 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="47.076923">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-              <folding />
+            <state vertical-scroll-proportion="-12.423077">
+              <caret line="106" column="10" selection-start-line="106" selection-start-column="10" selection-end-line="106" selection-end-column="10" />
+              <folding>
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,8 +42,8 @@
       <file leaf-file-name="monecole.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css_ecole/monecole.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6426282">
-              <caret line="114" column="18" selection-start-line="114" selection-start-column="18" selection-end-line="114" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.82852566">
+              <caret line="234" column="26" selection-start-line="234" selection-start-column="26" selection-end-line="234" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -476,7 +430,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -500,7 +457,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="58" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -524,7 +484,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="58" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -548,7 +511,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="161" column="48" selection-start-line="161" selection-start-column="48" selection-end-line="161" selection-end-column="48" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -572,7 +538,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -596,7 +565,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="160" column="49" selection-start-line="160" selection-start-column="49" selection-end-line="160" selection-end-column="49" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -620,7 +592,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -644,7 +619,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -681,7 +659,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -738,16 +719,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="47.076923">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
+        <state vertical-scroll-proportion="-12.423077">
+          <caret line="106" column="10" selection-start-line="106" selection-start-column="10" selection-end-line="106" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css_ecole/monecole.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6426282">
-          <caret line="114" column="18" selection-start-line="114" selection-start-column="18" selection-end-line="114" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.82852566">
+          <caret line="234" column="26" selection-start-line="234" selection-start-column="26" selection-end-line="234" selection-end-column="26" />
           <folding />
         </state>
       </provider>

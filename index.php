@@ -96,12 +96,14 @@
     </p></section></br>
 <div class="bloc_partenaire">
     <div class="photos_partenaires">
-        <h3 class =titre_partenaire style="font-size: 50px; color: white; text-align: center">nos parténaires</h3>
-        <img src="image/iug.jpg" style="width: 250px;"/>
-        <img src="image/ju.JPG" class="partenaires"/>
-        <img src="image/cti.png" class="partenaires"/>
-        <img src="image/cam.jpg" class="partenaires"/>
-        <img src="image/ub.jpg" class="partenaires"/>
+        <h3 class =titre_partenaire style="font-size: 50px; color: white; text-align: center; margin-bottom:70px">nos parténaires</h3>
+        <div class="cadre_partenaire">
+            <img src="image/iug.jpg"  class="partenaires" style="width: 250px;"/>
+            <img src="image/ju.JPG" class="partenaires"/>
+            <img src="image/cti.png" class="partenaires"/>
+            <img src="image/cam.jpg" class="partenaires"/>
+            <img src="image/ub.jpg" class="partenaires"/>
+        </div>
     </div>
 </div>
 <div id="tous">
