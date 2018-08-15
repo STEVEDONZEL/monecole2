@@ -1,20 +1,15 @@
 body{
-
+    width: 100%;
     font-family: cursive;
-    font-size: 25px;
-    font-style: normal;
-    text-transform:;
+    font-size: 100%;
     line-height: 1.5em;
     letter-spacing: normal;
-    background-color:;
 }
-.menue_haut{
+.menue_haut{              /*pour la barre de menue situé au dessus de notre page*/
     width: 100%;
     background-color: #4CAF50;
     list-style-type: none;
     text-align: right;
-    margin: 0;
-    padding: 0;
 }
 .menue ul{
     list-style-type: none;
@@ -26,25 +21,28 @@ body{
     border: 1px 1px 1px 1px;
 }
 .menue_haut a{
-    text-decoration: none;
+    text-decoration: none; /* desouligner les liens*/
     padding:15px;
     color: white;
+    border: 0.01px solid blanchedalmond;
 }
 .menue ul li a{
-    border: 1px solid gray;
+
 }
-.menue_haut:hover{
+.menue_haut a:hover{
     color: cyan;
     border:  1px;
 }
 .nom_ecole{
 width: 100%;
-    height: 350px;
-    background-image: url("image/pm.jpg");
-    background-repeat: no-repeat;
+    height: 500px;
+    background-image: url("../image/pm.jpg");
+    position: relative;
+    background-repeat: no-repeat
     background-position: center;
     background-attachment: local;
     background-size: 100%;
+    margin-right: 19px;
    opacity : 0.9;
 }
 .h1{
@@ -61,33 +59,42 @@ width: 100%;
 .logo{
     margin-right:30px;
     background-position: 30px 80px 80px 0px;
+    position: absolute;
+    margin-left: 20px;
+    margin-bottom: 19px;
 }
 section{
-    width: 60%;
+    display: inline-block;
+    width: 75%;
+    height: 300px;
     text-align: justify;
-    font-size: 25px;
-    font-family: "time new roman", serif;
+    font-size: 28px;
+    font-family: serif;
     box-shadow:7px 4px 4px 4px;
-    padding: 12px;
-    display: block;
-    margin: auto;
+    padding: 25px 25px 25px 25px;
     border: 1px solid;
-    border-color: #555555;
-    box
-    margin-bottom: 150px;
+    border-color: #449d44;
+    margin-left: 20px;
+    margin-bottom: 200px;
+}
+.bloc_nav{
+    border: 1px solid black;
+    margin: auto;
+    margin-bottom: px;
 }
 .nav_droite{
     width: 20%;
-    display: inline-block;
+    display: block;
     vertical-align:middle;
     font-size: 1.25rem;
     float: right;
 }
 .nav_droite a {
+    width: auto;
     background-color:#4CAF50;
 color: white;
     display: block;
-    padding: 12px 12px 12px 12px;
+    padding: 35px;
     text-decoration: none;
 
 }
@@ -96,12 +103,16 @@ color: white;
     margin: 80px;
     height: 20%;
 }
+.nav_droite a:hover{
+    color: blueviolet;
+}
+.nav_droite a:active{
+    color: blueviolet;
+}
 .bloc_partenaire{
     display: block;
     background-color: #4CAF50;
     margin-top: 30px;
-    
-
 
 }
 .photos_partenaires{
@@ -112,9 +123,6 @@ margin-bottom: 10%;
     text-align: center;
 }
 .class{
-    color: white;
-}
-.acc:visited {
     color: white;
 }
 h3 {
@@ -153,11 +161,11 @@ h1{
     border-radius:5px;
     background: burlywood;
     text-align:center;
-    background-image: url("image/so.jpg");
+    background-image: url("../image/so.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-    margin-bottom: 300px;
+    margin-bottom:100px;
 }
 #tous a img {
     height:190px;
@@ -207,10 +215,44 @@ h1{
     bottom:0;
     width:100%;
     background-color: #4CAF50;
+    font-family: Tahoma, Arial, Helvetica, sans-serif;
+    font-size: 20px;
     color: white;
     text-align:center;
 }
+table{
+    border-width:1px;
+    border-style:solid;
+    border-color:black;
+    border-collapse: collapse;
+    width:100%;
+}
+td{
+    border-width:1px;
+    border-style: solid solid;
+    border-color: black;
+    vertical-align: middle;
+}
+}
+.dernieres_actualites{
+    width: auto;
+    display: block;
+}
+.dernieres_actualites a{
+    display: block;
+    text-decoration: none;
+    color: white;
 
+}
+.liens_rapides{
+    width: auto;
+    display: block;
+}
+.liens_rapides a{
+    display: block;
+    text-decoration: none;
+    color: white;
+}
 .num{                                                 /* pour les photos du bloc de footer*/
     width: 4.8%;
     height: 57px;
@@ -221,22 +263,19 @@ h1{
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    background-color:aqua;
     padding: 50px;
     font-size: 20px;
     text-align: center;
 }
 #menue{
-    width: 90%;
+    width: 98%;
     margin: 0;
     list-style: none;
-    font-family: cursive;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: white;
+    margin-left: 20px;
 }
-#menue a{
-    color: white;
-}
-#menue ul {                                        /* pour le menue déroulant du haut*/
+#menue ul {                                        /* pour le menue déroulant*/
     margin:0;
     padding:0;
     line-height: 400%;
@@ -247,26 +286,21 @@ h1{
     float: left;
     position: relative;
     background-color: forestgreen;
-    color: white;
 }
 #menue ul li a {
-    color: white;
     text-decoration: none;
     width:300px;
     height: 31px;
-    font-size: 25px;
+    font-size: 23px;
     display: inline-table;
     text-align: center;
-    border:;
-    text-shadow:;
-    font-family: "time new roman", serif;
+    font-family: serif;
 
 }
 #menue ul ul {
     position: absolute;
-    top: 65px;
+    top: 62px;   /* espace entre les menus et la liste déroulante*/
     visibility: hidden;
-color: white;
 }
 #menue ul li:hover ul{
     visibility: visible;
@@ -275,15 +309,11 @@ color: white;
     background-color: mediumvioletred;
 }
 #menue ul li ul a:hover{
-    color: white;
     background-color: blueviolet;
 }
 #menue a:hover{
     background-color:gray;
-    color:blue;
-    font-style: normal;
-    border-style:solid;
-    border-color:gray;
+    color: aliceblue;
 }
 #menue a:active
 {
@@ -294,10 +324,10 @@ color: white;
 }
 #menue li a.active{
     background-color: forestgreen;
-    color: blue;
+    color: white;
 }
 #menue a:visited {
-    color: burlywood;
+    color: white;  /* couleur des liens*/
 }
 .p{
     width: 350px;
@@ -307,7 +337,7 @@ color: white;
     margin-bottom: 20px;
     color: white;
 }
-.local{
+.local{     /* nom et addresse situé sur le menue du haut*/
     color: white;
 }
 .iug{
@@ -321,67 +351,19 @@ color: white;
     .cam{
     width: 200px;
 }
-}
-#photos{
-    border: 2px solid orange;
-    border-radius: 150px 150px 7px 7px;
-    width: 60%;
-    display: inline-block;
-    vertical-align: top;
-    padding: 18px;
-    margin-bottom:70px;
-}
 .nos_photos{
     width: 35%;
 }
-#addresse{
-    border: 2px solid orangered;
-    border-radius: 7px 7px 150px 150px;
-    width: 62%;
-    display: inline-block;
-    vertical-align: top;
-
-}
-body {margin:0;}
-
 .icon-bar {
-    width: 100%;
+    width: 90px;
     background-color: #555;
-    overflow: auto;
-}
-body {margin:0;}
-
-.icon-bar {
-    width: 100%;
-    background-color: #555;
-    overflow: auto;
-}
-
-.icon-bar a {
-    float: left;
-    width: 10%;
-    text-align: center;
-    padding: 12px 0;
-    transition: all 0.3s ease;
-    color: white;
-    font-size: 36px;
-}
-
-.icon-bar a:hover {
-    background-color: #000;
-}
-
-.active {
-    background-color: #4CAF50 !important;
-}
-.liens{
-    text-decoration: none;
-    text-align: ;
-    opacity: 0.6;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
+    margin-top: 75px;
 }
 .footer{
     font-family: cursive;
+}
+.auteur {
+    border: 1px solid black;
+    background-color: #080808;
+
 }
