@@ -107,16 +107,16 @@
 </div>
 <div id="tous">
     <!-- Notre navigation -->
-    <nav><a href="html_ecole/eleves.php" tabindex="0" title=" ESPACES ELEVES" ><img src="image/l.jpg"  alt="PEDAGOGIE" /></a>
-        <a href="html_ecole/resultatexam.php" tabindex="0" title="RESULTATS DERNIERS EXAMENS" ><img src="image/j.jpg"  alt="RESULTAT" /></a>
-        <a href="html_ecole/maternelle.php" tabindex="0" title="LA MATERNELLE" ><img src="image/g.jpg"  alt="EDUCATION" /></a>
-        <a href="html_ecole/activitespara.php" tabindex="0" title="ACTIVITEES PERI-SCOLAIRES" ><img src="image/o.jpg"  alt="LOISIRS" /></a>
-        <a href="#" tabindex="0" title="ESPACE PARENTS" ><img src="image/t.JPG"  alt="CONFERENCE" /></a>
-        <a href="html_ecole/infospra.php" tabindex="0" title="infos pratiques" ><img src="image/k.jpg"  alt="leadership" /></a>
-        <a href="html_ecole/pedagogie.php" tabindex="0" title="PEDAGOGIE" ><img src="image/i.jpg"  alt="MOTIVATION" /></a>
-        <a href="html_ecole/nosprojets.php" tabindex="0" title="NOS PROJETS FUTURE"><img src="image/q.jpg"  alt="PROJET" /></a>
-        <a href="html_ecole/restauration.php" tabindex="0" title="RESTORATION" ><img src="image/ga.jpg"  alt="GASTRO" /></a>
-        <a href="html_ecole/methode.php" tabindex="0" title="NOS METHODES" ><img src="image/m.jpg"  alt="METHODOLOGIE" /></a></nav>
+    <nav><a href="html_ecole/eleves.php" tabindex="" title=" ESPACES ELEVES" ><img src="image/l.jpg"  alt="PEDAGOGIE" /></a>
+        <a href="html_ecole/resultatexam.php" tabindex="" title="RESULTATS DERNIERS EXAMENS" ><img src="image/j.jpg"  alt="RESULTAT" /></a>
+        <a href="html_ecole/maternelle.php" tabindex="" title="LA MATERNELLE" ><img src="image/g.jpg"  alt="EDUCATION" /></a>
+        <a href="html_ecole/activitespara.php" tabindex="" title="ACTIVITEES PERI-SCOLAIRES" ><img src="image/o.jpg"  alt="LOISIRS" /></a>
+        <a href="#" tabindex="" title="ESPACE PARENTS" ><img src="image/t.jpg"  alt="CONFERENCE" /></a>
+        <a href="html_ecole/infospra.php" tabindex="" title="infos pratiques" ><img src="image/k.jpg"  alt="leadership" /></a>
+        <a href="html_ecole/pedagogie.php" tabindex="" title="PEDAGOGIE" ><img src="image/i.jpg"  alt="MOTIVATION" /></a>
+        <a href="html_ecole/nosprojets.php" tabindex=" title="NOS PROJETS FUTURE"><img src="image/q.jpg"  alt="PROJET" /></a>
+        <a href="html_ecole/restauration.php" tabindex="" title="RESTORATION" ><img src="image/ga.jpg"  alt="GASTRO" /></a>
+        <a href="html_ecole/methode.php" tabindex="" title="NOS METHODES" ><img src="image/m.jpg"  alt="METHODOLOGIE" /></a></nav>
 </div>
     </body>
 <footer>
