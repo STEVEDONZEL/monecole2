@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="../css_ecole/galerieimage.css"/>
+    <link rel="stylesheet" href="../css_ecole/espaceparent.css"/>
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <style type="text/css" media="screen">@import "css_ecole/monecole.css";</style>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -89,137 +89,12 @@
         <a href="" class="nav_frame">nous joindre</a>
     </div>
 </div>
-  <div class="reponsive">
-    <div class="gallery">
-        <a target="_blank" href="">
-            <img src="../image/g.jpg" alt="">
-        </a>
-        <div class="desc">salle de la maternelle</div>
-    </div>
-</div>
-
-  <div class="reponsive">
-      <div class="gallery">
-        <a target="_blank" href="">
-            <img src="../image/recrea.png" alt="">
-        </a>
-        <div class="desc">la cour de recreation</div>
-    </div>
-</div>
-  <div class="reponsive">
-      <div class="gallery">
-        <a target="_blank" href="">
-            <img src="../image/pm.jpg" alt="">
-        </a>
-        <div class="desc">batiment des salles de classe</div>
-    </div>
-  </div>
-
-  <div class="reponsive"><div class="gallery">
-        <a target="_blank" href="">
-            <img src="../image/batad.jpg" alt="" >
-        </a>
-        <div class="desc">batiment administratif</div>
-    </div></div>
-  <div class="reponsive">
-      <div class="gallery">
-        <a target="_blank" href="">
-            <img src="../image/sa.jpg" alt="" >
-        </a>
-        <div class="desc">salle de classe</div>
-    </div></div>
-  <div class="reponsive">
-    <div class="gallery">
-        <a target="_blank" href="">
-            <img src="../image/quan.jpg" alt="" >
-        </a>
-        <div class="desc">cantine scolaire</div>
-    </div></div>
-  <div class="reponsive">
-      <div class="gallery">
-        <a target="_blank" href="">
-            <img src="../image/bi.jpg" alt="" >
-        </a>
-        <div class="desc">biblothèque</div>
-    </div></div>
-  <div class="reponsive">
-      <div class="gallery">
-        <a target="_blank" href="">
-            <img src="../image/bi.jpg" alt="" >
-        </a>
-        <div class="desc">biblothèque</div>
-    </div></div>
-  <div class="reponsive">
-      <div class="gallery">
-        <a target="_blank" href="">
-            <img src="../image/bi.jpg" alt="" >
-        </a>
-        <div class="desc">biblothèque</div>
-    </div></div>
-  <div class="reponsive">
-      <div class="gallery">
-        <a target="_blank" href="">
-            <img src="../image/bus.jpg" alt="" >
-        </a>
-        <div class="desc">school bus</div>
-    </div>
-      </br></div>
-<div class="clearfix"></div>
-<h1 style="text-align: center; color:darkgreen" >PRESENTATION DU CORPS ADMINISTRATIF</h1>
-<div class="responsive"><div class="gallery">
-        <img src="../image/di.jpg" alt="" >
-        <div class="desc">le directeur</div>
-    </div></div>
-  <div class="responsive">
-      <div class="gallery">
-        <img src="../image/se.jpg" alt="" >
-        <div class="desc">la secretaire</div>
-    </div></div>
-  <div class="responsive"><div class="gallery">
-        <img src="../image/eco.jpg" alt="" >
-        <div class="desc">l'econome</div>
-    </div></div>
-  <div class="responsive">
-      <div class="gallery">
-        <img src="../image/har.jpg" alt="" >
-        <div class="desc">responsable du systeme d'information</div>
-    </div></div>
-  <div class="responsive">
-      <div class="gallery">
-        <img src="../image/cti.jpg" alt="" >
-        <div class="desc">responsable de surveilance générale</div>
-    </div></div>
-<div class="clearfix"></div>
-  <div class="responsive">
-      <div class="gallery">
-        <img src="../image/lk.jpg" alt="" >
-        <div class="desc">les conseillés d'orientation</div>
-    </div></div>
-  <div class="responsive">
-      <div class="gallery">
-        <img src="../image/bi.jpg" alt="" >
-        <div class="desc">les enseignants</div>
-    </div></div>
-  <div class="responsive">
-      <div class="gallery">
-        <img src="../image/bi.jpg" alt="" >
-        <div class="desc">les chargés d'entretients et de securités</div>
-    </div></div>
-  <div class="responsive">
-      <div class="gallery">
-        <img src="../image/bi.jpg" alt="" >
-        <div class="desc">les conducteurs de bus scolaire</div>
-    </div></div>
- <div class="responsive">
-     <div class="gallery">
-        <img src="../image/bi.jpg" alt="" >
-        <div class="desc">nos parains et maraines</div>
-    </div>
- </div>
-<div class="clearfix"></div>
+<section>
+    <p>pas d'actualité pour le moment</p>                                                                                             LA DIRECTION
+</section>
 <div class="bloc_partenaire">
     <div class="photos_partenaires">
-        <h3 class =titre_partenaire style="font-size: 50px; color: white; text-align: center; margin-bottom:25px">nos parténaires</h3>
+        <h3 class =titre_partenaire style="font-size: 50px; color: white; text-align: center; margin-bottom:20px">nos parténaires</h3>
         <div class="cadre_partenaire">
             <img src="../image/iug.jpg"  class="partenaires" style="width: 250px;"/>
             <img src="../image/ju.JPG" class="partenaires"/>

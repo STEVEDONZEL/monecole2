@@ -12,7 +12,7 @@
 <body>
 <div class="menue_haut">
     <ul>
-        <li><a href="monecole/">accueil</a></li>
+        <li><a href="../index.php/">accueil</a></li>
         <li><a href="">contact</a></li>
         <li><a href="">abscence et retard</a></li>
         <li class="local">BP:0000</li>

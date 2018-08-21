@@ -12,7 +12,7 @@
 <body>
 <div class="menue_haut">
     <ul>
-        <li><a href="monecole/">accueil</a></li>
+        <li><a href="">accueil</a></li>
         <li><a href="">contact</a></li>
         <li><a href="">abscence et retard</a></li>
         <li class="local">BP:0000</li>
@@ -57,8 +57,8 @@
                     <li> <a href="html_ecole/admission.php">généralité sur l'admission</a></li>
                     <li><a href="html_ecole/dossiersins.php">dossier d'inscription</a></li>
                     <li> <a href="html_ecole/fraisadmis.php">frais d'admission</a></li>
-                    <li><a href="/monecole/">règlement financier </a></li>
-                    <li><a href="/monecole/">test d'entré </a></li>
+                    <li><a href="html_ecole/reglementfinancier.php">règlement financier </a></li>
+                    <li><a href="html_ecole/testentrer.php">test d'entré </a></li>
                 </ul>
             </li>
         </ul>
@@ -84,9 +84,9 @@
 <img src="image/l.jpg" class="deuxieme_image" alt="formation de proximité">
 <div class="blocs_nav">
     <div class="nav_droite">
-        <a href="" class="nav_frame">evènnement</a>
-        <a href="" class="nav_frame">calendrier</a>
-        <a href="" class="nav_frame">nous joindre</a>
+        <a href="/html_ecole/evenement.php" class="nav_frame">evènnement</a>
+        <a href="/html_ecole/calendier.php" class="nav_frame">calendrier</a>
+        <a href="/html_ecole/nousjoindre.php" class="nav_frame">nous joindre</a>
     </div>
 </div>
 <section>
@@ -111,7 +111,7 @@
         <a href="html_ecole/resultatexam.php" tabindex="" title="RESULTATS DERNIERS EXAMENS" ><img src="image/j.jpg"  alt="RESULTAT" /></a>
         <a href="html_ecole/maternelle.php" tabindex="" title="LA MATERNELLE" ><img src="image/g.jpg"  alt="EDUCATION" /></a>
         <a href="html_ecole/activitespara.php" tabindex="" title="ACTIVITEES PERI-SCOLAIRES" ><img src="image/o.jpg"  alt="LOISIRS" /></a>
-        <a href="#" tabindex="" title="ESPACE PARENTS" ><img src="image/t.jpg"  alt="CONFERENCE" /></a>
+        <a href="html_ecole/espaceparent.php/" tabindex="" title="ESPACE PARENTS" ><img src="image/t.jpg"  alt="CONFERENCE" /></a>
         <a href="html_ecole/infospra.php" tabindex="" title="infos pratiques" ><img src="image/k.jpg"  alt="leadership" /></a>
         <a href="html_ecole/pedagogie.php" tabindex="" title="PEDAGOGIE" ><img src="image/i.jpg"  alt="MOTIVATION" /></a>
         <a href="html_ecole/nosprojets.php" tabindex=" title="NOS PROJETS FUTURE"><img src="image/q.jpg"  alt="PROJET" /></a>

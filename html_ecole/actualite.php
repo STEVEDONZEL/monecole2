@@ -12,7 +12,7 @@
 <body>
 <div class="menue_haut">
     <ul>
-        <li><a href="../index/">accueil</a></li>
+        <li><a href="../">accueil</a></li>
         <li><a href="">contact</a></li>
         <li><a href="">abscence et retard</a></li>
         <li class="local">BP:0000</li>
