@@ -12,7 +12,7 @@
 <body>
 <div class="menue_haut">
     <ul>
-        <li><a href="../index/">accueil</a></li>
+        <li><a href="../">accueil</a></li>
         <li><a href="">contact</a></li>
         <li><a href="">abscence et retard</a></li>
         <li class="local">BP:0000</li>
@@ -84,9 +84,9 @@
 <img src="../image/l.jpg" class="deuxieme_image" alt="formation de proximité">
 <div class="blocs_nav">
     <div class="nav_droite">
-        <a href="" class="nav_frame">evènnement</a>
-        <a href="" class="nav_frame">calendrier</a>
-        <a href="" class="nav_frame">nous joindre</a>
+        <a href="../html_ecole/evenement.php" class="nav_frame">evènnement</a>
+        <a href="../html_ecole/calendier.php" class="nav_frame">calendrier</a>
+        <a href="../html_ecole/nousjoindre.php" class="nav_frame">nous joindre</a>
     </div>
 </div>
   <div class="reponsive">
@@ -195,7 +195,7 @@
         <img src="../image/lk.jpg" alt="" >
         <div class="desc">les conseillés d'orientation</div>
     </div></div>
-  <div class="responsive">
+  <div class="responsive">../html_ecole/
       <div class="gallery">
         <img src="../image/bi.jpg" alt="" >
         <div class="desc">les enseignants</div>
@@ -281,7 +281,7 @@
             </tr>
         </table>
         <div class="icon-bar">
-            <a class="active" href="#"><i class="fa fa-home"></i></a>
+            <a class="active" href="../"><i class="fa fa-home"></i></a>
             <a href="#"><i class="fa fa-facebook"></i></a>
             <a href="#"><i class="fa fa-whatsapp"></i></a>
             <a href="#"><i class="fa fa-envelope"></i></a>

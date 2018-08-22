@@ -12,7 +12,7 @@
 <body>
 <div class="menue_haut">
     <ul>
-        <li><a href="monecole/">accueil</a></li>
+        <li><a href="../">accueil</a></li>
         <li><a href="">contact</a></li>
         <li><a href="">abscence et retard</a></li>
         <li class="local">BP:0000</li>
@@ -57,8 +57,8 @@
                 <li> <a href="../html_ecole/admission.php">généralité sur l'admission</a></li>
                 <li><a href="../html_ecole/dossiersins.php">dossier d'inscription</a></li>
                 <li> <a href="../html_ecole/fraisadmis.php">frais d'admission</a></li>
-                <li><a href="/monecole/">règlement financier </a></li>
-                <li><a href="/monecole/">test d'entré </a></li>
+                <li><a href="../html_ecole/reglementfinancier.php">règlement financier </a></li>
+                <li><a href="../html_ecole/testentrer.php">test d'entré </a></li>
             </ul>
         </li>
     </ul>
@@ -84,9 +84,9 @@
 <img src="../image/l.jpg" class="deuxieme_image" alt="formation de proximité">
 <div class="blocs_nav">
     <div class="nav_droite">
-        <a href="" class="nav_frame">evènnement</a>
-        <a href="" class="nav_frame">calendrier</a>
-        <a href="" class="nav_frame">nous joindre</a>
+        <a href="../html_ecole/evenement.php" class="nav_frame">evènnement</a>
+        <a href="../html_ecole/calendier.php" class="nav_frame">calendrier</a>
+        <a href="../html_ecole/nousjoindre.ph../html_ecole/" class="nav_frame">nous joindre</a>
     </div>
 </div>
 <section>
@@ -108,9 +108,9 @@
 <div id="tous">
     <!-- Notre navigation -->
     <nav><a href="../html_ecole/eleves.php" tabindex="0" title=" ESPACES ELEVES" ><img src="../image/l.jpg"  alt="PEDAGOGIE" /></a>
-        <a href="../html_ecole/resultatexam.php" tabindex="0" title="RESULTATS DERNIERS EXAMENS" ><img src="../image/j.jpg"  alt="RESULTAT" /></a>
-        <a href="../html_ecole/maternelle.php" tabindex="0" title="LA MATERNELLE" ><img src="../image/g.jpg"  alt="EDUCATION" /></a>
-        <a href="../html_ecole/activitespara.php" tabindex="0" title="ACTIVITEES PERI-SCOLAIRES" ><img src="../image/o.jpg"  alt="LOISIRS" /></a>
+        <a href="resultatexam.php" tabindex="0" title="RESULTATS DERNIERS EXAMENS" ><img src="../image/j.jpg"  alt="RESULTAT" /></a>
+        <a href="maternelle.php" tabindex="0" title="LA MATERNELLE" ><img src="../image/g.jpg"  alt="EDUCATION" /></a>
+        <a href="activitespara.php" tabindex="0" title="ACTIVITEES PERI-SCOLAIRES" ><img src="../image/o.jpg"  alt="LOISIRS" /></a>
         <a href="#" tabindex="0" title="ESPACE PARENTS" ><img src="../image/t.JPG"  alt="CONFERENCE" /></a>
         <a href="../html_ecole/infospra.php" tabindex="0" title="infos pratiques" ><img src="../image/k.jpg"  alt="leadership" /></a>
         <a href="../html_ecole/pedagogie.php" tabindex="0" title="PEDAGOGIE" ><img src="../image/i.jpg"  alt="MOTIVATION" /></a>
@@ -157,7 +157,7 @@
             </tr>
         </table>
         <div class="icon-bar">
-            <a class="active" href="#"><i class="fa fa-home"></i></a>
+            <a class="active" href="../"><i class="fa fa-home"></i></a>
             <a href="#"><i class="fa fa-facebook"></i></a>
             <a href="#"><i class="fa fa-whatsapp"></i></a>
             <a href="#"><i class="fa fa-envelope"></i></a>

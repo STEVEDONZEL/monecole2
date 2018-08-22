@@ -27,7 +27,7 @@
         </ul>
         <ul>
             <li>
-                <a href="/monecole/">ACTUALITEES</a>
+                <a href="../">ACTUALITEES</a>
                 <ul>
                     <li><a href="../actualite/actualite.php">actualitees recentes</a></li>
                 </ul>
