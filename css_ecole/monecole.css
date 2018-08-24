@@ -65,8 +65,8 @@ width: 100%;
 }
 section{
     display: inline-block;
-    width: 75%;
-    height: 400px;
+    width: 70%;
+    height: 900px;
     text-align: justify;
     font-size: 28px;
     font-family: serif;
@@ -80,7 +80,7 @@ section{
 .bloc_nav{
     border: 1px solid black;
     margin: auto;
-    margin-bottom: px;
+    margin-bottom: 50px;
 }
 .nav_droite{
     width: 20%;
@@ -94,7 +94,7 @@ section{
     background-color:#4CAF50;
 color: white;
     display: block;
-    padding: 35px;
+    padding: px;
     text-decoration: none;
 
 }

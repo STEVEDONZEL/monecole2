@@ -65,8 +65,8 @@ background-position: center;
 }
 section{
     display: inline-block;
-    width: 76%;
-    height: 100px;
+    width: 60%;
+    height: 200px;
     text-align: center;
     font-size: 28px;
     font-family: serif;
@@ -106,7 +106,7 @@ padding: 25px 25px 25px 25px;
     background-color:#4CAF50;
     color: white;
     display: block;
-    padding: 35px;
+    padding: px;
     text-decoration: none;
 
 }
@@ -404,14 +404,6 @@ td{
     border: 1px solid black;
     background-color: #080808;
 
-}
-ection{
-    width: 60%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 25px 25px 25px 25px;
-    text-align: center;
 }
 h2{
     color: blue;

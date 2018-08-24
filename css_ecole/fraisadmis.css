@@ -90,7 +90,7 @@ background-position: center;
     background-color:#4CAF50;
     color: white;
     display: block;
-    padding: 35px;
+    padding: px;
     text-decoration: none;
 
 }
@@ -112,7 +112,7 @@ background-position: center;
     overflow: auto;
 }
 .section{
-    width: 30%;
+    width: 65%;
     display: inline-block;
     height: 4000px;
     text-align: center;
@@ -411,24 +411,16 @@ section{
     padding: 25px 25px 25px 25px;
     text-align: center;
 }
-section{
-    width: 60%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    padding: 25px 25px 25px 25px;
-    text-align: justify;
-}
 .accordion {
     background-color: #eee;
     color: #444;
     cursor: pointer;
     padding: 18px;
-    width: 100%;
+    width: 60%;
     border: none;
-    text-align: left;
+    text-align: center;
     outline: none;
-    font-size: 15px;
+    font-size: 20px;
     transition: 0.4s;
 }
 
@@ -441,7 +433,7 @@ section{
     color: #777;
     font-weight: bold;
     float: right;
-    margin-left: 5px;
+    margin-right: 50px;
 }
 
 .active:after {

@@ -65,8 +65,8 @@ background-position: center;
 }
 section{
     display: inline-block;
-    width: 81%;
-    height: 200px;     /*auteur de la section*/
+    width: 76%;
+    height:900px;   teur de la section*/
     text-align: center;
     font-size: 28px;
     font-family: serif;
@@ -78,7 +78,92 @@ padding: 25px 25px 25px 25px;
     margin-left: 20px;
     margin-bottom: 400px;
 }
+.titre_calendrier{
+    text-align: center;
+    font-size: 45px;
+    color: green;
+}
+* {box-sizing: border-box;}     /* bloc pour l'affichage du calendrier*/
+ul {list-style-type: none;}
+body {font-family: Verdana, sans-serif;}
 
+.mois {
+    padding: 70px 25px;
+    width: 100%;
+    background: #1abc9c;
+    text-align: center;
+}
+
+.mois ul {
+    margin: 0;
+    padding: 0;
+}
+
+.mois ul li {
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.mois .prev {
+    float: left;
+    padding-top: 10px;
+}
+
+.mois .next {
+    float: right;
+    padding-top: 10px;
+}
+
+.jours_semaine {
+    margin: 0;
+    padding: 10px 0;
+    background-color: #ddd;
+}
+
+.jours_semaine li {
+    display: inline-block;
+    width: 13.6%;
+    color: #666;
+    text-align: center;
+}
+
+.jours {
+    padding: 10px 0;
+    background: #eee;
+    margin: 0;
+}
+
+.jours li {
+    list-style-type: none;
+    display: inline-block;
+    width: 13.6%;
+    text-align: center;
+    margin-bottom: 5px;
+    font-size:20px;
+    color: #777;
+}
+
+.jours li .active {
+    padding: 5px;
+    background: #1abc9c;
+    color: white !important
+}
+
+/* Add media queries for smaller screens */
+@media screen and (max-width:720px) {
+    .jours_semaine li, .jours li {width: 13.1%;}
+}
+
+@media screen and (max-width: 420px) {
+    .jours_semaine li, .jours li {width: 12.5%;}
+    .jours li .active {padding: 2px;}
+}
+
+@media screen and (max-width: 290px) {
+    .jours_semaine li, .jours li {width: 12.2%;}
+}
 .sticky {
     position: -webkit-sticky;
     position: sticky;
@@ -106,7 +191,7 @@ padding: 25px 25px 25px 25px;
     background-color:#4CAF50;
     color: white;
     display: block;
-    padding: 35px;
+    padding: px;
     text-decoration: none;
 
 }

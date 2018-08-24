@@ -84,9 +84,9 @@
 <img src="../image/l.jpg" class="deuxieme_image" alt="formation de proximité">
 <div class="blocs_nav">
     <div class="nav_droite">
-        <a href="../html_ecole/evenement.php" class="nav_frame">evènnement</a>
-        <a href="../html_ecole/calendier.php" class="nav_frame">calendrier</a>
-        <a href="../html_ecole/nousjoindre.php" class="nav_frame">nous joindre</a>
+        <a href="../html_ecole/evenement.php" class="nav_frame"><img src="../image/evenement.jpg" style="margin-left:18px;width: 210px; "></a>
+        <a href="../html_ecole/calendier.php" class="nav_frame"><img src="../image/calendrier.png" style="margin-left:18px; "></a>
+        <a href="../html_ecole/nousjoindre.php" class="nav_frame"><img src="../image/nous_joindre.png" style="margin-left:18px; "></a>
     </div>
 </div>
   <div class="reponsive">
@@ -195,7 +195,7 @@
         <img src="../image/lk.jpg" alt="" >
         <div class="desc">les conseillés d'orientation</div>
     </div></div>
-  <div class="responsive">../html_ecole/
+  <div class="responsive">../html_ecole/>
       <div class="gallery">
         <img src="../image/bi.jpg" alt="" >
         <div class="desc">les enseignants</div>

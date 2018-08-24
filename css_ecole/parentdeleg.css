@@ -1,3 +1,4 @@
+
 body{
     width: 100%;
     font-family: cursive;
@@ -65,8 +66,8 @@ background-position: center;
 }
 section{
     display: inline-block;
-    width: 76%;
-    height: 600px;
+    width: 70%;
+    height: 800px;     /*auteur de la section*/
     text-align: center;
     font-size: 28px;
     font-family: serif;
@@ -76,7 +77,7 @@ padding: 25px 25px 25px 25px;
     border: solid;
     border-color: #cccccc;
     margin-left: 20px;
-    margin-bottom: 100px;
+    margin-bottom: 400px;
 }
 
 .sticky {
@@ -106,7 +107,7 @@ padding: 25px 25px 25px 25px;
     background-color:#4CAF50;
     color: white;
     display: block;
-    padding: 35px;
+    padding: px;
     text-decoration: none;
 
 }

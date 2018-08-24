@@ -65,8 +65,8 @@ background-position: center;
 }
 section{
     display: inline-block;
-    width: 76%;
-    height: 200px;     /*auteur de la section*/
+    width: 70%;
+    height: 900px;     /*auteur de la section*/
     text-align: center;
     font-size: 28px;
     font-family: serif;
@@ -106,7 +106,7 @@ padding: 25px 25px 25px 25px;
     background-color:#4CAF50;
     color: white;
     display: block;
-    padding: 35px;
+    padding: px;
     text-decoration: none;
 
 }

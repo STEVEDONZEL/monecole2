@@ -90,7 +90,6 @@ background-position: center;
     background-color:#4CAF50;
     color: white;
     display: block;
-    padding: 35px;
     text-decoration: none;
 
 }
@@ -479,7 +478,7 @@ div.gallery:hover {
 }
 
 div.gallery img {
-    width:100%;
+    width:90%;
     height: 200px;
 
 }
