@@ -65,7 +65,7 @@ background-position: center;
 }
 section{
     display: inline-block;
-    width: 81%;
+    width: 65%;
     height: 4000px;
     text-align: center;
     font-size: 28px;
@@ -75,7 +75,7 @@ section{
     padding: 25px 25px 25px 25px;
     border: solid;
     border-color: #cccccc;
-    margin-left: 20px;
+    margin-left: 150px;
     margin-bottom: 100px;
 }
 
@@ -106,7 +106,7 @@ section{
     background-color:#4CAF50;
     color: white;
     display: block;
-    padding: 35px;
+    padding: px;
     text-decoration: none;
 
 }

@@ -5,7 +5,7 @@ body{
     line-height: 1.5em;
     letter-spacing: normal;
 }
-.menue_haut{              /*pour la barre de menue situÃ© au dessus de notre page*/
+.menue_haut{              /*pour la barre de menue situé au dessus de notre page*/
     width: 100%;
     background-color: #4CAF50;
     list-style-type: none;
@@ -66,7 +66,7 @@ background-position: center;
 section{
     display: inline-block;
     width: 70%;
-    height: 750px;     /*auteur de la section*/
+    height: 800px;
     text-align: center;
     font-size: 28px;
     font-family: serif;
@@ -75,8 +75,8 @@ section{
 padding: 25px 25px 25px 25px;
     border: solid;
     border-color: #cccccc;
-    margin-left: 20px;
-    margin-bottom: 400px;
+    margin-left: 150px;
+    margin-bottom: 100px;
 }
 
 .sticky {
@@ -313,7 +313,7 @@ td{
     color: white;
     margin-left: 20px;
 }
-#menue ul {                                        /* pour le menue dÃ©roulant*/
+#menue ul {                                        /* pour le menue déroulant*/
     margin:0;
     padding:0;
     line-height: 400%;
@@ -337,7 +337,7 @@ td{
 }
 #menue ul ul {
     position: absolute;
-    top: 62px;   /* espace entre les menus et la liste dÃ©roulante*/
+    top: 62px;   /* espace entre les menus et la liste déroulante*/
     visibility: hidden;
 }
 #menue ul li:hover ul{
@@ -375,7 +375,7 @@ td{
     margin-bottom: 20px;
     color: white;
 }
-.local{     /* nom et addresse situÃ© sur le menue du haut*/
+.local{     /* nom et addresse situé sur le menue du haut*/
     color: white;
 }
 .iug{

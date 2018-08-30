@@ -124,7 +124,7 @@ padding: 25px 25px 25px 25px;
     border: solid;
     border-color: #cccccc;
     margin-left: 20px;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
 .icon-bar a {
     float: left;
@@ -402,48 +402,4 @@ td{
     border: 1px solid black;
     background-color: #080808;
 
-}
-section{
-    width: 60%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 25px 25px 25px 25px;
-    text-align: center;
-}
-.accordion {
-    background-color: #eee;
-    color: #444;
-    cursor: pointer;
-    padding: 18px;
-    width: 60%;
-    border: none;
-    text-align: center;
-    outline: none;
-    font-size: 20px;
-    transition: 0.4s;
-}
-
-.active, .accordion:hover {
-    background-color: #ccc;
-}
-
-.accordion:after {
-    content: '\002B';
-    color: #777;
-    font-weight: bold;
-    float: right;
-    margin-right: 50px;
-}
-
-.active:after {
-    content: "\2212";
-}
-
-.panel {
-    padding: 0 18px;
-    background-color: white;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;
 }

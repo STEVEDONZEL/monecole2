@@ -92,10 +92,8 @@
 <section><h1>Règlement intérieur primaire</br></h1>
     <h3>Préambule</h3>
     <p>L’Ecole a pour but :</p>
-    <ul>
-        <li>de donner aux élèves des connaissances et des habitudes de travail</li>
-        <li>de favoriser leur épanouissement et de leur apprendre à vivre au sein d’une collectivité</li>
-    </ul>
+        <p>- de donner aux élèves des connaissances et des habitudes de travail</p>
+        <p>- de favoriser leur épanouissement et de leur apprendre à vivre au sein d’une collectivité</p>
     <h3>1) ENTREES ET SORTIES DE L’ETABLISSEMENT</br></h3>
     <p>Elles se font uniquement par le grand portail   « garage à vélos » est situé à côté du portail.<p></p>
     Je dépose obligatoirement mon vélo dans le « garage à vélos » et je le cadenasse.</br></p>
@@ -135,27 +133,27 @@
     <p>Pour des raisons de santé, le piercing est interdit.</br></p>
     <h3>5) ABSENCES </h3>
     <p>Toute absence doit être excusée :</p>
-    <ul> <li>à l’avance (en cas d’absence prévue)</li>
-        <li>le matin même du jour de l’absence (en cas d’absence imprévue) A son retour, l’élève doit présenter à l’enseignant une excuse rédigée par les parents (avec le motif de l’absence).</br></li></ul>
+    <ul> <p>-  à l’avance (en cas d’absence prévue)</p>
+        <p>-  le matin même du jour de l’absence (en cas d’absence imprévue) A son retour, l’élève doit présenter à l’enseignant une excuse rédigée par les parents (avec le motif de l’absence).</br></p></ul>
     <h3>6) DROIT A L’IMAGE</h3>
     <p>L’ecole primaire Félix Moumié utilise les photos des élèves prises dans le cadre d’activités scolaires pour constituer des photos de classe, des exposés,
         des articles dans la presse et sur le site de l’école www.assomptioncolmar.fr</br></p>
 
     <h3>7) SANCTIONS</h3>
     <p>Le non-respect de ce règlement entraîne les sanctions suivantes :</p>
-    <ul><li>Avertissement oral ou écrit</li>
-        <li> Carton jaune dans la cour (3 cartons = 1 sanction)</li>
-        <li>Travail supplémentaire</li>
-        <li> Retenue le mercredi</li>
-        <li>Convocation des parents (avec l’enseignant et la direction)</li>
-        <li> Exclusion temporaire </li>
-        <li>Exclusion des études, de la cantine, des activités FERIA</li>
-        <li>Non réinscription en cas de différend important avec la famille ou de problème grave avec l’enfant
-            Tout le personnel éducatif de l’Etablissement est habilité à sanctionner. </li></ul>
+    <ul><p>-  Avertissement oral ou écrit</p>
+        <p>-   Carton jaune dans la cour (3 cartons = 1 sanction)</p>
+        <p>-  Travail supplémentaire</p>
+        <p>-   Retenue le mercredi</p>
+        <p>-  Convocation des parents (avec l’enseignant et la direction)</p>
+        <p>-   Exclusion temporaire </p>
+        <p>-  Exclusion des études, de la cantine, des activités FERIA</p>
+        <p>-  Non réinscription en cas de différend important avec la famille ou de problème grave avec l’enfant
+            Tout le personnel éducatif de l’Etablissement est habilité à sanctionner. </p></ul>
 </section>
     <div class="bloc_partenaire">
         <div class="photos_partenaires">
-            <h3 class =titre_partenaire style="font-size: 50px; color: white; text-align: center; margin-bottom:70px">nos parténaires</h3>
+            <h3 class =titre_partenaire style="font-size: 50px; color: white; text-align: center; margin-bottom:25px">nos parténaires</h3>
             <div class="cadre_partenaire">
                 <img src="../image/iug.jpg"  class="partenaires" style="width: 250px;"/>
                 <img src="../image/ju.JPG" class="partenaires"/>

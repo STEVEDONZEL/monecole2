@@ -90,11 +90,11 @@
     </div>
 </div>
 <section>
-    <p>pas d'actualité pour le moment</p>                                                                                             LA DIRECTION
+   <p>pas encore d'informations</p>                                                                                            LA DIRECTION
 </section>
 <div class="bloc_partenaire">
     <div class="photos_partenaires">
-        <h3 class =titre_partenaire style="font-size: 50px; color: white; text-align: center; margin-bottom:20px">nos parténaires</h3>
+        <h3 class =titre_partenaire style="font-size: 50px; color: white; text-align: center; margin-bottom:25px">nos parténaires</h3>
         <div class="cadre_partenaire">
             <img src="../image/iug.jpg"  class="partenaires" style="width: 250px;"/>
             <img src="../image/ju.JPG" class="partenaires"/>

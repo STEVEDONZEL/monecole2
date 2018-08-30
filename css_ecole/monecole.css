@@ -65,17 +65,20 @@ width: 100%;
 }
 section{
     display: inline-block;
-    width: 70%;
+    width: 60%;
     height: 900px;
     text-align: justify;
     font-size: 28px;
-    font-family: serif;
+    font-family: Helvetica, Verdana, Tahoma, Arial, 'Liberation Sans', FreeSans, sans-serif;
     box-shadow:7px 4px 4px 4px;
     padding: 25px 25px 25px 25px;
     border: 1px solid;
     border-color: #449d44;
-    margin-left: 20px;
+    margin-left: 150px;
+    margin-right: ;
     margin-bottom: 200px;
+    color: #101010;
+    background-color: #00CC66;
 }
 .bloc_nav{
     border: 1px solid black;

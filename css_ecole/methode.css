@@ -66,7 +66,7 @@ background-position: center;
 section{
     display: inline-block;
     width: 70%;
-    height: 2800px;
+    height: 1500px;
     text-align: center;
     font-size: 28px;
     font-family: serif;
@@ -75,7 +75,7 @@ section{
 padding: 25px 25px 25px 25px;
     border: solid;
     border-color: #cccccc;
-    margin-left: 20px;
+    margin-left: 150px;
     margin-bottom: 100px;
 }
 .centre{

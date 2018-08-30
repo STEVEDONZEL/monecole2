@@ -90,18 +90,12 @@
     </div>
 </div>
 <section>
-<button class="accordion">frais d'admissions</button>
-<div class="panel">
+<p>frais d'admission</p>
     <p>   L’Ecole internationale Le Félix Moumié, située à douala (quartier pk8 a quelques mettre de iug), capitale du Cameroun, a été créée en premier lieu pour dispenser un enseignement de niveau primaire et maternelle.
         C’est une école homologuée de l’enseignement français qui suit les programmes et instructions délivrerer par le minisère de l'education de base.
         Les classes ouvertes vont de la petite section maternelle (2 ans) au CM2 (10 ans). L’effectif maximum est de 17 élèves par classe.
         Des cours d’anglais sont dispensés dans l’école dès la Grande Section de maternelle (5 ans), à raison d’une heure et demie par semaine, et du CP au CM2 (6 à 10 ans) à raison de six heures par semaine.
-        Frais d’inscription : 200 000 FCFA à régler lors de la première inscription de l’enfant (1ère année seulement).</p>
-</div>
-
-<button class="accordion">frais exigés</button>
-<div class="panel">
-
+        Frais d’inscription : 200 000 FCFA à régler lors de la première inscription de l’enfant (1ère année seulement).</br></p>
     <p>LES FRAIS D’INSCRIPTION NE SONT EN AUCUN CAS REMBOURSABLES:</br></p>
     <p>Frais de scolarité annuels</p>
     <p>Tarif maternelle 2, 3, 4 et 5 ans : 1.700.000 F CFA</p>
@@ -116,11 +110,7 @@
     <p>Lundi, mercredi et vendredi de 7h 50 à 12h 30 (en maternelle et élémentaire)</p>
     <p>Mardi et jeudi de 8h 50 à 12h 00 et de 15h 10 à 17h 00 (en maternelle)
         et  8h 50 à 12h 00 et de 14h 10 à 17h 00 (en élémentaire)</p>
-</div>
-
-<button class="accordion">pièces recommandées</button>
-<div class="panel">
-
+<p>pièces recommandées</p>
     <ul><p>Pour toute nouvelle inscription, il vous est demandé de remplir le questionnaire ci-contre et de joindre les pièces suivantes :</br></p>
         <li> Une copie de la carte d’identité ou du passeport de l’enfant</li>
         <li> Une copie de son acte de naissance</li>
@@ -132,24 +122,6 @@
         <li> Fiche de renseignements</li></ul>
 
     <p>NB : L’inscription de l’enfant ne sera déclarée définitive que lorsque les parents se seront acquittés de la somme de 200 000 FCFA (frais d’inscription) auprès de l’adjointe administrative.</p>
-</div>
-
-    <script>
-        var acc = document.getElementsByClassName("accordion");
-        var i;
-
-        for (i = 0; i < acc.length; i++) {
-            acc[i].addEventListener("click", function() {
-                this.classList.toggle("active");
-                var panel = this.nextElementSibling;
-                if (panel.style.maxHeight){
-                    panel.style.maxHeight = null;
-                } else {
-                    panel.style.maxHeight = panel.scrollHeight + "px";
-                }
-            });
-        }
-    </script>
 </section>
 <div class="bloc_partenaire">
     <div class="photos_partenaires">

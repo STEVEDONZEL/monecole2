@@ -91,8 +91,12 @@
 </div>
 <section>
     <h1>ECOLE PRIMAIRE Félix Moumié</h1></br>
+    <p>Je vous souhaite la bienvenue sur le site Internet de l’école Félix Moumié. Vous y trouverez une multitude d’informations a propos de notre établissement et nos methodes : nos projets, nos resultats, effets scolaires, horaire, calendrier scolaire etc.</p>
     <p>Félix moumié est une école de référence privée et laïc  pour la formation et l’éducation de vos enfants qui sont nos poulains donc nous ne cessons de leurs inculquer des valeurs moraux et civiques assez soutenue et dense. Duran ces années nous leurs apprendrons  des techniques créatives, logiques etc. des exercices de psychologie, technique, adapté aux écoles modernes, permettant à l’enfant de développer des facultés mentales intellectuelles et morale, dans  le seule but de le préparer à leurs cheminement vers le second cycle.
-    </p></section></br>
+    </p></br>
+    <p>Le bien-être et la réussite des élèves sont prioritaires pour toute l’équipe. Nous considérons votre collaboration essentielle au succès de nos élèves. Je vous invite à vous impliquer autant que vous le pouvez à la vie scolaire.</p>
+</section>
+
 <div class="bloc_partenaire">
     <div class="photos_partenaires">
         <h3 class =titre_partenaire style="font-size: 50px; color: white; text-align: center; margin-bottom:70px">nos parténaires</h3>
@@ -158,7 +162,7 @@
         </table>
         <div class="icon-bar">
             <a class="active" href=""><i class="fa fa-home"></i></a>
-            <a href="#"><i class="fa fa-facebook"></i></a>
+            <a href="https://www.facebook.com/CTI.Institute/?fb_dtsg_ag=AdxjGWCWrE1ON6gkXikTvELuiO-8jbSdx1EKF4ipiWEBgw%3AAdwJRviM4XlQcHnUQUmZ8zUQzAgVYg8rVqpoPSTw2IPlkg"><i class="fa fa-facebook"></i></a>
             <a href="#"><i class="fa fa-whatsapp"></i></a>
             <a href="#"><i class="fa fa-envelope"></i></a>
             <a href="#"><i class="fa fa-google"></i></a>

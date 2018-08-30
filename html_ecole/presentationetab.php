@@ -102,18 +102,18 @@
         une infirmière pour nous donner les premiers soins.</br></p>
     <h3 class="mill">Notre école dispose :</br></h2>
     <ul>
-        <li>d’une quarantaine de salle de classe climatisé</li>
-        <li>des douches spacieuse et modernes </li>
-        <li>d’une grande cour de recreation contenant des jeux et  jouets pour enfant</li>
-        <li> d'une salle de sport>
-        <li>des salles de permaneces </li>
-        <li>d’une salle de fete</li>
-        <li>d’une bibliothèque</li>
-        <li>d’une vidéothèque</li>
-        li>d’une salle d’informatique</li>
-        li>d’une cantine aux menus diversifiés</li>
-        <li>de cars de transport</li>
-        <li>d’une batiment administratif</li>
+         <p>d’une quarantaine de salle de classe climatisé</p>
+         <p>des douches spacieuse et modernes </p>
+         <p>d’une grande cour de recreation contenant des jeux et  jouets pour enfant</p>
+        <p>d'une salle de sport</p>
+        <p>des salles de permaneces </p>
+        <p>d’une salle de fete</p>
+       <p>d’une bibliothèque</p>
+       <p>d’une vidéothèque</p>
+       <p>d’une salle d’informatique</p>
+       <p>d’une cantine aux menus diversifiés</p>
+       <p>de cars de transport</p>
+       <p>d’une batiment administratif</p>
     </ul>
 
     <p>Tous les mercredis et samedis matins, les élèves peuvent suivre des activités extra-scolaires : football, basket-ball, judo, dessin, couture, travaux manuels, théâtre…

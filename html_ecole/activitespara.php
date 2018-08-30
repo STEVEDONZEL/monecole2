@@ -84,9 +84,9 @@
 <img src="../image/l.jpg" class="deuxieme_image" alt="formation de proximité">
 <div class="blocs_nav">
     <div class="nav_droite">
-        <a href="" class="nav_frame">evènnement</a>
-        <a href="" class="nav_frame">calendrier</a>
-        <a href="" class="nav_frame">nous joindre</a>
+        <a href="../html_ecole/evenement.php" class="nav_frame"><img src="../image/evenement.jpg" style="margin-left:18px;width: 210px; "></a>
+        <a href="../html_ecole/calendier.php" class="nav_frame"><img src="../image/calendrier.png" style="margin-left:18px; "></a>
+        <a href="../html_ecole/nousjoindre.php" class="nav_frame"><img src="../image/nous_joindre.png" style="margin-left:18px; "></a>
     </div>
 </div>
 <section>
@@ -153,7 +153,7 @@
 </section>
 <div class="bloc_partenaire">
     <div class="photos_partenaires">
-        <h3 class =titre_partenaire style="font-size: 50px; color: white; text-align: center; margin-bottom:70px">nos parténaires</h3>
+        <h3 class =titre_partenaire style="font-size: 50px; color: white; text-align: center; margin-bottom:25px">nos parténaires</h3>
         <div class="cadre_partenaire">
             <img src="../image/iug.jpg"  class="partenaires" style="width: 250px;"/>
             <img src="../image/ju.JPG" class="partenaires"/>

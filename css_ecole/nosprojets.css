@@ -66,16 +66,16 @@ background-position: center;
 section{
     display: inline-block;
     width: 70%;
-    height: 2000px;
+    height: 1900px;
     text-align: center;
     font-size: 28px;
-    font-family: serif;
+    font-family: Helvetica, Verdana, Tahoma, Arial, 'Liberation Sans', FreeSans, sans-serif;
     background-color: #cccccc;
     box-shadow:1px
 padding: 25px 25px 25px 25px;
     border: solid;
     border-color: #cccccc;
-    margin-left: 20px;
+    margin-left: 150px;
     margin-bottom: 100px;
 }
 
