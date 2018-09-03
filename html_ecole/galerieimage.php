@@ -57,8 +57,8 @@
                 <li> <a href="../html_ecole/admission.php">généralité sur l'admission</a></li>
                 <li><a href="../html_ecole/dossiersins.php">dossier d'inscription</a></li>
                 <li> <a href="../html_ecole/fraisadmis.php">frais d'admission</a></li>
-                <li><a href="/monecole/">règlement financier </a></li>
-                <li><a href="/monecole/">test d'entré </a></li>
+                <li><a href="../html_ecole/reglementfinancier.php">règlement financier </a></li>
+                <li><a href="../html_ecole/reglementfinancier.php">test d'entré </a></li>
             </ul>
         </li>
     </ul>
@@ -114,7 +114,7 @@
             </a>
             <div class="desc">batiment des salles de classe</div>
         </div>
-    </div>
+    </div>..
     <div class="reponsive"><div class="gallery">
             <a target="_blank" href="">
                 <img src="../image/batad.jpg" alt="" >

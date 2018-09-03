@@ -65,12 +65,12 @@ background-position: center;
 }
 section{
     display: inline-block;
-    width: 65%;
+    width: 70%;
     height: 2000px;
     text-align: center;
     font-size: 28px;
     font-family: serif;
-    background-color: #cccccc;
+    background-color:;
     box-shadow:1px
 padding: 25px 25px 25px 25px;
     border: solid;
@@ -78,7 +78,19 @@ padding: 25px 25px 25px 25px;
     margin-left: 100px;
     margin-bottom: 100px;
 }
+#conteneur{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.recap{
 
+    flex: 3;
+    color:white ;
+    border: 1px solid greenyellow;
+    background-color: #229922;
+    margin: 14px;
+}
 .sticky {
     position: -webkit-sticky;
     position: sticky;

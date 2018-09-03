@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="../css_ecole/activitespara.css"/>
+    <link rel="stylesheet" href="../css_ecole/restauration.css"/>
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <style type="text/css" media="screen">@import "css_ecole/monecole.css";</style>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -58,7 +58,7 @@
                 <li><a href="../html_ecole/dossiersins.php">dossier d'inscription</a></li>
                 <li> <a href="../html_ecole/fraisadmis.php">frais d'admission</a></li>
                 <li><a href="../html_ecole/reglementfinancier.php">règlement financier </a></li>
-                <li><a href="../html_ecole/testentrer.php../html_ecole/">test d'entré </a></li>
+                <li><a href="../html_ecole/reglementfinancier.php">test d'entré </a></li>
             </ul>
         </li>
     </ul../html_ecole/
@@ -91,13 +91,16 @@
 </div>
 
 <section>
-    <h1 class="ctne">cantine des élèves</h1>
-    <p>Un restaurant scolaire est à votre disposition tous les jours de classe pour un tarif unique de 2000 fr surveillance incluse.
-        Chaque élève dispose d’une carte qui est conservée à l’école sur laquelle des repas sont crédités. La consultation des soldes, des passages et le rechargement du compte restauration se fait directement en ligne dans l'espace EcoleDirecte des familles.
-        L’inscription à la restauration scolaire se fait le matin même, ce qui permet une gestion simplifiée pour les familles.
-        Les repas sont préparés à la cuisine du lycée des Arcades et distribués en liaison chaude juste avant midi.
-        Le tarif du repas comprend également la surveillance sur le temps périscolaire de 12h à 13h45.</br></p>
-
+    <div id="conteneur">
+        <div class="cantine">
+            <h1 class="ctne">cantine des élèves</h1>
+            <p>Un restaurant scolaire est à votre disposition tous les jours de classe pour un tarif unique de 2000 fr surveillance incluse.
+                Chaque élève dispose d’une carte qui est conservée à l’école sur laquelle des repas sont crédités. La consultation des soldes, des passages et le rechargement du compte restauration se fait directement en ligne dans l'espace EcoleDirecte des familles.
+                L’inscription à la restauration scolaire se fait le matin même, ce qui permet une gestion simplifiée pour les familles.
+                Les repas sont préparés à la cuisine du lycée des Arcades et distribués en liaison chaude juste avant midi.
+                Le tarif du repas comprend également la surveillance sur le temps périscolaire de 12h à 13h45.</br></p>
+        </div>
+    </div>
     <div class="container">
         <div class="mySlides">
             <div class="numbertext">1 / 6</div>
@@ -164,7 +167,7 @@
 </section>
 <div class="bloc_partenaire">
     <div class="photos_partenaires">
-        <h3 class =titre_partenaire style="font-size: 50px; color: white; text-align: center; margin-bottom:70px">nos parténaires</h3>
+        <h3 class =titre_partenaire style="font-size: 50px; color: white; text-align: center; margin-bottom:25px">nos parténaires</h3>
         <div class="cadre_partenaire">
             <img src="../image/iug.jpg"  class="partenaires" style="width: 250px;"/>
             <img src="../image/ju.JPG" class="partenaires"/>

@@ -58,7 +58,7 @@
                 <li><a href="../html_ecole/dossiersins.php">dossier d'inscription</a></li>
                 <li> <a href="../html_ecole/fraisadmis.php">frais d'admission</a></li>
                 <li><a href="../html_ecole/reglementfinancier.php">règlement financier </a></li>
-                <li><a href="../html_ecole/testentrer.php">test d'entré </a></li>
+                <li><a href="../html_ecole/reglementfinancier.php">test d'entré </a></li>
             </ul>
         </li>
     </ul>
@@ -90,36 +90,44 @@
     </div>
 </div>
 <section>
-    <h1 class="gcentre">PRESENTATION DE L'ECOLE</br></h1>
-    <p>« Nous sommes les élèves de Félix Moumié.</br></p>
-    <p>Notre école située a pk8 a 100m de iug, a été crée en 2018 par Mr TENE PASCAL que l’on appelle tous HAND OF GOD.
-        C’est une école maternelle et primaire qui accueille les enfants de 3 ans à 11 ans.</br></p>
 
-    <p>Notre Directrice s’appelle Madame MATENE MONIQUE, et les conseillers pédagogiques sont : MONSIEUR KEGNE DIMITRI  et Monsieur NZOKOU ANSELME. Nous avons des maîtresses et des maitres  compétentes, aimables mais fermes quand c’est nécessaire.
-        A ce personnel s’ajoute :</br></p>
+    <div id="conteneur">
+        <div class="recap">
+            <h1 class="gcentre">PRESENTATION DE L'ECOLE</br></h1>
+            <p>« Nous sommes les élèves de Félix Moumié.</br></p>
+            <p>Notre école située a pk8 a 100m de iug, a été crée en 2018 par Mr TENE PASCAL que l’on appelle tous HAND OF GOD.
+                C’est une école maternelle et primaire qui accueille les enfants de 3 ans à 11 ans.</br></p>
+            <p>Notre Directrice s’appelle Madame MATENE MONIQUE, et les conseillers pédagogiques sont : MONSIEUR KEGNE DIMITRI  et Monsieur NZOKOU ANSELME. Nous avons des maîtresses et des maitres  compétentes, aimables mais fermes quand c’est nécessaire.
+                A ce personnel s’ajoute :</br></p>
 
-    <p>une psychologue et une orthophoniste pour détecter et aider à résoudre nos problèmes particuliers,
-        une infirmière pour nous donner les premiers soins.</br></p>
-    <h3 class="mill">Notre école dispose :</br></h2>
-    <ul>
-         <p>d’une quarantaine de salle de classe climatisé</p>
-         <p>des douches spacieuse et modernes </p>
-         <p>d’une grande cour de recreation contenant des jeux et  jouets pour enfant</p>
-        <p>d'une salle de sport</p>
-        <p>des salles de permaneces </p>
-        <p>d’une salle de fete</p>
-       <p>d’une bibliothèque</p>
-       <p>d’une vidéothèque</p>
-       <p>d’une salle d’informatique</p>
-       <p>d’une cantine aux menus diversifiés</p>
-       <p>de cars de transport</p>
-       <p>d’une batiment administratif</p>
-    </ul>
+            <p>une psychologue et une orthophoniste pour détecter et aider à résoudre nos problèmes particuliers,
+                une infirmière pour nous donner les premiers soins.</br></p>
+        </div>
+        <div class="recap">
+            <h1 class="mill">Notre école dispose :</br></h2>
+                <ul>
+                    <p>d’une quarantaine de salle de classe climatisé</p>
+                    <p>des douches spacieuse et modernes </p>
+                    <p>d’une grande cour de recreation contenant des jeux et  jouets pour enfant</p>
+                    <p>d'une salle de sport</p>
+                    <p>des salles de permaneces </p>
+                    <p>d’une salle de fete</p>
+                    <p>d’une bibliothèque</p>
+                    <p>d’une vidéothèque</p>
+                    <p>d’une salle d’informatique</p>
+                    <p>d’une cantine aux menus diversifiés</p>
+                    <p>de cars de transport</p>
+                    <p>d’une batiment administratif</p>
+                </ul>
+        </div>
+        <div></div>
+    </div>
+
 
     <p>Tous les mercredis et samedis matins, les élèves peuvent suivre des activités extra-scolaires : football, basket-ball, judo, dessin, couture, travaux manuels, théâtre…
         Nous avons à la Pépinière de II Plateaux diverses manifestations, en cours d’année : Fête de l’école(spectacle et Père-Noël), Mardi-Gras(déguisement et fanfare), Kermesse et goûter de fin d’année.
-        Nous aimons notre école, elle est très agréable et nous nous y sentons bien. »</br></>
-    <h3 class="centre">Les élèves de L'ecole primaire Félix Moumié.</h3>
+        Nous aimons notre école, elle est très agréable et nous nous y sentons bien.»</br></>
+    <h1 class="centre">Les élèves de L'ecole primaire Félix Moumié.</h1>
     En choisissant l’école Félix Moumié, vous proposez à votre enfant :
     une école accueillante avec des locaux agréables et des équipements adaptés
     une équipe enseignante attentive à ses besoins
@@ -127,7 +135,7 @@
 </section>
 <div class="bloc_partenaire">
     <div class="photos_partenaires">
-        <h3 class =titre_partenaire style="font-size: 50px; color: white; text-align: center; margin-bottom:70px">nos parténaires</h3>
+        <h3 class =titre_partenaire style="font-size: 50px; color: white; text-align: center; margin-bottom:25px">nos parténaires</h3>
         <div class="cadre_partenaire">
             <img src="../image/iug.jpg"  class="partenaires" style="width: 250px;"/>
             <img src="../image/ju.JPG" class="partenaires"/>

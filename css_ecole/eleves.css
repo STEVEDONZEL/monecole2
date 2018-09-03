@@ -65,12 +65,11 @@ background-position: center;
 }
 section{
     display: inline-block;
-    width: 70%;
+    width: 72%;
     height: 2500px;
     text-align: center;
     font-size: 28px;
     font-family: serif;
-    background-color: #cccccc;
     box-shadow:1px
 padding: 25px 25px 25px 25px;
     border: solid;
@@ -78,7 +77,19 @@ padding: 25px 25px 25px 25px;
     margin-left: 100px;
     margin-bottom: 100px;
 }
+#conteneur{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.eleves{
 
+    flex: 3;
+    color:white ;
+    border: 1px solid greenyellow;
+    background-color: #229922;
+    margin: 25px;
+}
 .sticky {
     position: -webkit-sticky;
     position: sticky;

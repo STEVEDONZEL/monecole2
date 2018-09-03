@@ -66,11 +66,12 @@ background-position: center;
 section{
     display: inline-block;
     width: 70%;
-    height: 1400px;
+    height: 1800px;
     text-align: center;
     font-size: 28px;
     font-family: serif;
-    background-color: #cccccc;
+    background-color: #229922;
+    color: white;
     box-shadow:1px
 padding: 25px 25px 25px 25px;
     border: solid;

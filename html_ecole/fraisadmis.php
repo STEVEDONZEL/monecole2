@@ -58,7 +58,7 @@
                 <li><a href="../html_ecole/dossiersins.php">dossier d'inscription</a></li>
                 <li> <a href="../html_ecole/fraisadmis.php">frais d'admission</a></li>
                 <li><a href="../html_ecole/reglementfinancier.php">règlement financier </a></li>
-                <li><a href="../html_ecole/testentrer.php">test d'entré </a></li>
+                <li><a href="../html_ecole/reglementfinancier.php">test d'entré </a></li>
             </ul>
         </li>
     </ul>
@@ -91,10 +91,10 @@
 </div>
 <section>
 <p>frais d'admission</p>
-    <p>   L’Ecole internationale Le Félix Moumié, située à douala (quartier pk8 a quelques mettre de iug), capitale du Cameroun, a été créée en premier lieu pour dispenser un enseignement de niveau primaire et maternelle.
-        C’est une école homologuée de l’enseignement français qui suit les programmes et instructions délivrerer par le minisère de l'education de base.
-        Les classes ouvertes vont de la petite section maternelle (2 ans) au CM2 (10 ans). L’effectif maximum est de 17 élèves par classe.
-        Des cours d’anglais sont dispensés dans l’école dès la Grande Section de maternelle (5 ans), à raison d’une heure et demie par semaine, et du CP au CM2 (6 à 10 ans) à raison de six heures par semaine.
+    <p>L’Ecole Félix Moumié, située à douala (quartier pk8 a quelques mettre de iug), capitale du Cameroun,
+        a été créée en premier lieu pour dispenser un enseignement de niveau primaire et maternelle.</p>
+        Les classes ouvertes vont de la petite section maternelle  au CM2. L’effectif maximum est de 17 élèves par classe.
+        Des cours d’anglais sont dispensés dans l’école dès la Grande Section de maternelle , à raison d’une heure et demie par semaine, et du CP au CM2  à raison de six heures par semaine.
         Frais d’inscription : 200 000 FCFA à régler lors de la première inscription de l’enfant (1ère année seulement).</br></p>
     <p>LES FRAIS D’INSCRIPTION NE SONT EN AUCUN CAS REMBOURSABLES:</br></p>
     <p>Frais de scolarité annuels</p>

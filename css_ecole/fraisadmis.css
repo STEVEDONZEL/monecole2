@@ -63,6 +63,22 @@ background-position: center;
     margin-left: 20px;
     margin-bottom: 19px;
 }
+section{
+    display: inline-block;
+    width: 72%;
+    height: 2500px;
+    text-align: center;
+    font-size: 28px;
+    font-family: serif;
+    box-shadow:1px
+padding: 25px 25px 25px 25px;
+    border: solid;
+    border-color: #cccccc;
+    background-color: #229922;
+    color:white;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
 .sticky {
     position: -webkit-sticky;
     position: sticky;
@@ -111,21 +127,7 @@ background-position: center;
     background-color: #080808;
     overflow: auto;
 }
-.section{
-    width: 65%;
-    display: inline-block;
-    height: 4000px;
-    text-align: center;
-    font-size: 28px;
-    font-family: serif;
-    background-color: #cccccc;
-    box-shadow:1px
-padding: 25px 25px 25px 25px;
-    border: solid;
-    border-color: #cccccc;
-    margin-left: 20px;
-    margin-bottom: 150px;
-}
+
 .icon-bar a {
     float: left;
     width: 20%;

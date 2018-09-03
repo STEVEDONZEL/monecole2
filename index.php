@@ -2,6 +2,7 @@
 <html lang="fr">
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css_ecole/monecole.css"/>
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <style type="text/css" media="screen">@import "css_ecole/monecole.css";</style>
@@ -58,7 +59,7 @@
                     <li><a href="html_ecole/dossiersins.php">dossier d'inscription</a></li>
                     <li> <a href="html_ecole/fraisadmis.php">frais d'admission</a></li>
                     <li><a href="html_ecole/reglementfinancier.php">règlement financier </a></li>
-                    <li><a href="html_ecole/testentrer.php">test d'entré </a></li>
+                    <li><a href="html_ecole/reglementfinancier.php">test d'entré </a></li>
                 </ul>
             </li>
         </ul>

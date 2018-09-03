@@ -66,17 +66,31 @@ background-position: center;
 section{
     display: inline-block;
     width: 60%;
-    height: 800px;
+    height: 1200px;
     text-align: center;
     font-size: 28px;
     font-family: serif;
-    background-color: #cccccc;
+    background-color: ;
+    color: ;
     box-shadow:1px
 padding: 25px 25px 25px 25px;
     border: solid;
     border-color: #cccccc;
     margin-left: 150px;
     margin-bottom: 100px;
+}
+#conteneur{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cantine{
+
+    flex:1;
+    color:white ;
+    border: 1px solid greenyellow;
+    background-color: #229922;
+    margin: 14px;
 }
 
 .sticky {

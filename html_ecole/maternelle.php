@@ -58,7 +58,7 @@
                 <li><a href="../html_ecole/dossiersins.php">dossier d'inscription</a></li>
                 <li> <a href="../html_ecole/fraisadmis.php">frais d'admission</a></li>
                 <li><a href="../html_ecole/reglementfinancier.php">règlement financier </a></li>
-                <li><a href="../html_ecole/testentrer.php">test d'entré </a></li>
+                <li><a href="../html_ecole/reglementfinancier.php">test d'entré </a></li>
             </ul>
         </li>
     </ul>
@@ -90,28 +90,35 @@
     </div>
 </div>
 <section>
-    <h1>ECOLE MATERNELLE</h1>
-<h2>Les apprentissages à l'école maternelle</h2>
-<p>Les enseignements sont organisés en cinq domaines d'apprentissage :</p>
-<p>Mobiliser le langage dans toutes ses dimensions
-    Agir, comprendre à travers l'activité physique
-    Agir, s'exprimer, comprendre à travers les activités artistiques
-    Construire les premiers outils pour structurer sa pensée
-    Explorer le monde</p>
-    <h2>Le fonctionnement de l'école maternelle</h2>
-    <p>Une école maternelle comprend uniquement des classes de maternelle, de la petite à la grande section. Une école primaire comprend à la fois des classes de maternelle et des classes d'élémentaire, de la petite section au CM2.</p>
-    <p>Les enfants de moins de 3 ans peuvent être scolarisés dans des modalités d'accueil différentes :</p>
-    <p>dans une classe de l'école maternelle, spécifique et adaptée aux besoins des jeunes enfants</p>
-    <p>dans des classes de l'école maternelle comportant un ou plusieurs niveaux</p>
-    <p>dans un milieu mixte, associant services de petite enfance et école, permettant d'offrir du temps scolaire dans des dispositifs conçus localement</p>
-    <h2>Le programme d'enseignement</h2>
-    <p>Il est organisé en cinq domaines d'apprentissage :</p>
-    <p>Mobiliser le langage dans toutes ses dimensions
-        Agir, s'exprimer, comprendre à travers l'activité physique
-        Agir, s'exprimer, comprendre à travers les activités artistiques
-        Construire les premiers outils pour structurer sa pensée Explorer le monde
-    </p>
-    <p>Le programme établit une définition générale pour chaque domaine d'apprentissage. Il énonce les objectifs visés et donne des indications pédagogiques de nature à fournir des repères pour organiser la progressivité des apprentissages.</p>
+    <div id="conteneur">
+        <div class="maternelle">
+            <h1>ECOLE MATERNELLE</h1>
+            <h2>Les apprentissages à l'école maternelle</h2>
+            <p>Les enseignements sont organisés en cinq domaines d'apprentissage :</p>
+            <p>Mobiliser le langage dans toutes ses dimensions
+                Agir, comprendre à travers l'activité physique
+                Agir, s'exprimer, comprendre à travers les activités artistiques
+                Construire les premiers outils pour structurer sa pensée
+                Explorer le monde</p>
+            <h2>Le fonctionnement de l'école maternelle</h2>
+            <p>Une école maternelle comprend uniquement des classes de maternelle, de la petite à la grande section. Une école primaire comprend à la fois des classes de maternelle et des classes d'élémentaire, de la petite section au CM2.</p>
+            <p>Les enfants de moins de 3 ans peuvent être scolarisés dans des modalités d'accueil différentes :</p>
+            <p>dans une classe de l'école maternelle, spécifique et adaptée aux besoins des jeunes enfants</p>
+            <p>dans des classes de l'école maternelle comportant un ou plusieurs niveaux</p>
+            <p>dans un milieu mixte, associant services de petite enfance et école, permettant d'offrir du temps scolaire dans des dispositifs conçus localement</p>
+        </div>
+        <div>
+            <h2>Le programme d'enseignement</h2>
+            <p>Il est organisé en cinq domaines d'apprentissage :</p>
+            <p>Mobiliser le langage dans toutes ses dimensions
+                Agir, s'exprimer, comprendre à travers l'activité physique
+                Agir, s'exprimer, comprendre à travers les activités artistiques
+                Construire les premiers outils pour structurer sa pensée Explorer le monde
+            </p>
+            <p>Le programme établit une définition générale pour chaque domaine d'apprentissage. Il énonce les objectifs visés et donne des indications pédagogiques de nature à fournir des repères pour organiser la progressivité des apprentissages.</p>
+        </div>
+    </div>
+
 
 </section>
 <div class="bloc_partenaire">

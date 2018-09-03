@@ -58,7 +58,7 @@
                 <li><a href="../html_ecole/dossiersins.php">dossier d'inscription</a></li>
                 <li> <a href="../html_ecole/fraisadmis.php">frais d'admission</a></li>
                 <li><a href="../html_ecole/reglementfinancier.php">règlement financier </a></li>
-                <li><a href="../html_ecole/testentrer.php">test d'entré </a></li>
+                <li><a href="../html_ecole/reglementint.php">test d'entré </a></li>
             </ul>
         </li>
     </ul>

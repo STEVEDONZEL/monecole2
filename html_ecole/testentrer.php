@@ -58,7 +58,7 @@
                 <li><a href="../html_ecole/dossiersins.php">dossier d'inscription</a></li>
                 <li> <a href="../html_ecole/fraisadmis.php">frais d'admission</a></li>
                 <li><a href="../html_ecole/reglementfinancier.php">règlement financier </a></li>
-                <li><a href="../html_ecole/testentrer.php">test d'entré </a></li>
+                <li><a href="../html_ecole/reglementfinancier.php">test d'entré </a></li>
             </ul>
         </li>
     </ul>
@@ -90,11 +90,11 @@
     </div>
 </div>
 <section>
-   <p>pas encore d'informations</p>                                                                                            LA DIRECTION
+    <p>pas d'actualité pour le moment </p>                                                                                             LA DIRECTION
 </section>
 <div class="bloc_partenaire">
     <div class="photos_partenaires">
-        <h3 class =titre_partenaire style="font-size: 50px; color: white; text-align: center; margin-bottom:25px">nos parténaires</h3>
+        <h3 class =titre_partenaire style="font-size: 50px; color: white; text-align: center; margin-bottom:20px">nos parténaires</h3>
         <div class="cadre_partenaire">
             <img src="../image/iug.jpg"  class="partenaires" style="width: 250px;"/>
             <img src="../image/ju.JPG" class="partenaires"/>
