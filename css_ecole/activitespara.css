@@ -72,6 +72,7 @@ section{
     font-family: serif;
     background-color: #229922;
     color: white;
+    overflow: auto;
     box-shadow:1px
     padding: 25px 25px 25px 25px;
     border: solid;

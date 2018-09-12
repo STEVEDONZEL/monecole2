@@ -70,6 +70,7 @@ section{
     text-align: center;
     font-size: 28px;
     font-family: serif;
+    overflow: auto;
     background-color: #229922;
     color: white;
     box-shadow:1px

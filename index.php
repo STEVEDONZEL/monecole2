@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <style type="text/css" media="screen">@import "css_ecole/monecole.css";</style>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href='http://fonts.googleapis.com/css?family=Cabin' rel='stylesheet' type='text/css'>
     <script src="javascript_ecole/presentation.js"></script>
     <title>école maternelle et primaire félix moumié</title>
 </head>
@@ -23,7 +24,8 @@
 </div>
 <div class="nom_ecole">
     <div class="nom">
-        <h1 style="color:black; font-size: 100%; text-align: center; max-width: 4000px"><b>ECOLE PRIMAIRE Félix Moumié</b></h1>
+        <h1 style="color:white; font-size: 110%; text-align: center; max-width: 4000px"><b>ECOLE PRIMAIRE Félix Moumié</b></br></h1>
+            <h4 style="color:bisque; ">Innovation-Discipline-Succès</h4>
     </div>
     <div class="logo">
         <img src="image/logo.JPG">
@@ -79,21 +81,41 @@
         </ul>
         </li>
         </ul>
-
     </div>
 </div>
-<img src="image/l.jpg" class="deuxieme_image" alt="formation de proximité">
+<div class="conteneur_deuxieme_image">
+    <img src="image/l.jpg" class="deuxieme_image" alt="formation de proximité" style="margin-bottom: 20px;">
+    <div class="text_deuxieme_image">
+        <h2>l'excellence c'est notre affaire et le succès ces notre notre devoir</h2>
+    </div>
+</div>
+
 <div class="blocs_nav">
     <div class="nav_droite">
-        <a href="html_ecole/evenement.php" class="nav_frame"><img src="image/evenement.jpg" style="margin-left:18px;width: 210px; "></a>
-        <a href="html_ecole/calendier.php" class="nav_frame"><img src="image/calendrier.png" style="margin-left:18px; "></a>
-        <a href="html_ecole/nousjoindre.php" class="nav_frame"><img src="image/nous_joindre.png" style="margin-left:18px; "></a>
+        <div class="tooltip">
+            <a href="html_ecole/evenement.php" class="nav_frame"><img src="image/evenement.jpg" style="margin-left:18px;width: 210px; "></a>
+            <span class="tooltiptext">eh bien ouvrez pour voir</span>
+        </div>
+        <div class="tooltip">
+            <a href="html_ecole/calendier.php" class="nav_frame"><img src="image/calendrier.png" style="margin-left:18px; "></a>
+            <span class="tooltiptext">humm là aussi</span>
+        </div>
+        <div class="tooltip">
+            <a href="html_ecole/nousjoindre.php" class="nav_frame"><img src="image/nous_joindre.png" style="margin-left:18px; "></a>
+            <span class="tooltiptext">bahh ainsi que là</span>
+        </div>
     </div>
 </div>
 <section>
     <h1>ECOLE PRIMAIRE Félix Moumié</h1></br>
-    <p>Je vous souhaite la bienvenue sur le site Internet de l’école Félix Moumié. Vous y trouverez une multitude d’informations a propos de notre établissement et nos methodes : nos projets, nos resultats, effets scolaires, horaire, calendrier scolaire etc.</p>
-    <p>Félix moumié est une école de référence privée et laïc  pour la formation et l’éducation de vos enfants qui sont nos poulains donc nous ne cessons de leurs inculquer des valeurs moraux et civiques assez soutenue et dense. Duran ces années nous leurs apprendrons  des techniques créatives, logiques etc. des exercices de psychologie, technique, adapté aux écoles modernes, permettant à l’enfant de développer des facultés mentales intellectuelles et morale, dans  le seule but de le préparer à leurs cheminement vers le second cycle.
+    <p>Je vous souhaite la bienvenue sur le site Internet de l’école Félix Moumié.</p>
+      <p>  Vous y trouverez une multitude d’informations a propos de notre établissement et nos methodes :
+        nos projets, nos resultats, effets scolaires, horaire, calendrier scolaire etc.</p></br>
+    <p>Félix moumié est une école de référence privée et laïc  pour la formation et l’éducation
+        de vos enfants qui sont nos poulains donc nous ne cessons de leurs inculquer des valeurs moraux
+        et civiques assez soutenue et dense. Duran ces années nous leurs apprendrons  des techniques créatives,
+        logiques etc. des exercices de psychologie, technique, adapté aux écoles modernes, permettant à l’enfant de
+        développer des facultés mentales intellectuelles et morale, dans  le seule but de le préparer à leurs cheminement vers le second cycle.
     </p></br>
     <p>Le bien-être et la réussite des élèves sont prioritaires pour toute l’équipe. Nous considérons votre collaboration essentielle au succès de nos élèves. Je vous invite à vous impliquer autant que vous le pouvez à la vie scolaire.</p>
 </section>

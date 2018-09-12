@@ -144,7 +144,13 @@ z
         <li>29</li>
         <li>30</li>
         <li>31</li>
-    </ul>
+    </ul></br>
+
+    <button type="button"
+            onclick="document.getElementById('demo').innerHTML = Date()">
+        Cliquez ici pour obtenir l'heure et la date actuel.</button>
+
+    <p id="demo"></p>
 
 </section>
 <div class="bloc_partenaire">

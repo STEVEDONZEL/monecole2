@@ -70,6 +70,7 @@ section{
     text-align: center;
     font-size: 28px;
     font-family: serif;
+    overflow: auto;
     background-color: #cccccc;
     box-shadow:1px
 padding: 25px 25px 25px 25px;

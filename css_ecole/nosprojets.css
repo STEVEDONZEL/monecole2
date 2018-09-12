@@ -70,6 +70,7 @@ section{
     text-align: center;
     font-size: 28px;
     font-family: Helvetica, Verdana, Tahoma, Arial, 'Liberation Sans', FreeSans, sans-serif;
+    overflow: auto;
     background-color: #229922;
     color: white;
     box-shadow:1px

@@ -39,7 +39,7 @@ body{
     background-image: url("../image/pm.jpg");
     position: relative;
     background-repeat: no-repeat
-background-position: center;
+    background-position: center;
     background-attachment: local;
     background-size: 100%;
     margin-right: 19px;
@@ -70,9 +70,10 @@ section{
     text-align: center;
     font-size: 28px;
     font-family: serif;
+    overflow: auto;
     background-color: #cccccc;
     box-shadow:1px
-padding: 25px 25px 25px 25px;
+    padding: 25px 25px 25px 25px;
     border: solid;
     border-color: #cccccc;
     margin-left: 150px;

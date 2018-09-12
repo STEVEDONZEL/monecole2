@@ -71,8 +71,9 @@ section{
     font-size: 28px;
     font-family: serif;
     background-color: #cccccc;
-    box-shadow:1px
-padding: 25px 25px 25px 25px;
+    box-shadow:1px;
+    overflow: auto;
+    padding: 25px 25px 25px 25px;
     border: solid;
     border-color: #cccccc;
     margin-left: 150px;

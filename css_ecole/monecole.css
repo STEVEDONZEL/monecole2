@@ -1,6 +1,6 @@
 body{
     width: 100%;
-    font-family: cursive;
+    font-family: 'Cabin', Helvetica, Arial, sans-serif;
     font-size: 100%;
     line-height: 1.5em;
     letter-spacing: normal;
@@ -38,23 +38,28 @@ width: 100%;
     height: 500px;
     background-image: url("../image/pm.jpg");
     position: relative;
-    background-repeat: no-repeat
+    background-repeat: no-repeat;
     background-position: center;
     background-attachment: local;
     background-size: 100%;
     margin-right: 19px;
-   opacity : 0.9;
+opacity: 0.9;
 }
+.nom_ecole:hover {opacity: 0.2 ;}
 .h1{
     color: #2196F3;
 }
-.deuxieme_image{
-    width: 100%;
-    height: 700px;
-    display: block;
-    margin-left: auto;
-    margin-top: auto;
-    padding: 25px 25px 25px 25px;
+.nom{
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* couleur du background avec une opacitée de 0.5  */
+    color: white;
+    padding: 70px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 .logo{
     margin-right:30px;
@@ -63,17 +68,48 @@ width: 100%;
     margin-left: 20px;
     margin-bottom: 19px;
 }
+.deuxieme_image{
+    width: 100%;
+    height: 700px;
+    display: block;
+    margin-left: auto;
+    margin-top: auto;
+    padding: 25px 25px 25px 25px;
+    background-size: contain;
+}
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 200px;
+    background-color: #00A000;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    bottom: 2%;
+}
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
 section{
     display: inline-block;
-    width: 60%;
-    height: 900px;
-    text-align: justify;
+    max-width: 60%;
+    min-height:1000px;
+    text-align: center;
     font-size: 28px;
-    font-family: Helvetica, Verdana, Tahoma, Arial, 'Liberation Sans', FreeSans, sans-serif;
+    font-family: 'Cabin', Helvetica, Arial, sans-serif;
     box-shadow:7px 4px 4px 4px;
     padding: 25px 25px 25px 25px;
     border: 1px solid;
     border-color: #449d44;
+    letter-spacing: 3px;
+    overflow: auto;
     margin-left: 150px;
     margin-right: ;
     margin-bottom: 200px;
@@ -99,7 +135,6 @@ color: white;
     display: block;
     padding: px;
     text-decoration: none;
-
 }
 .nav_frame{
     border: 1px solid gray;
@@ -112,13 +147,11 @@ color: white;
 .nav_droite a:active{
     color: blueviolet;
 }
-
 .icon-bar {
     width: 100%;
     background-color: #080808;
     overflow: auto;
 }
-
 .icon-bar a {
     float: left;
     width: 20%;
@@ -128,7 +161,6 @@ color: white;
     color: white;
     font-size: 30px;
 }
-
 .icon-bar a:hover {
     background-color: #4CAF50;
 }
@@ -143,7 +175,6 @@ color: white;
     background-color: #4CAF50;
     margin-top: 7%;
     margin-bottom: 100px;
-
 }
 .photos_partenaires{
     width: 70%;
@@ -178,7 +209,6 @@ h1{
 }
 #tous a {
     transform:scale(0.75);
-
 }
 #tous a:hover, #tous a:focus {
     transform:scale(2.1);
@@ -234,9 +264,6 @@ h1{
     height: 30%;
     background:white;
 }
-
-
-
 #bas{ /* pour le bloc de footer*/
     text-decoration: none;
     position: relative;
@@ -262,7 +289,6 @@ td{
     border-color: cornsilk;
     vertical-align: middle;
 }
-}
 .dernieres_actualites{
     width: auto;
     display: block;
@@ -271,7 +297,6 @@ td{
     display: block;
     text-decoration: none;
     color: white;
-
 }
 .liens_rapides{
     width: auto;
@@ -324,7 +349,6 @@ td{
     display: inline-table;
     text-align: center;
     font-family: serif;
-
 }
 #menue ul ul {
     position: absolute;

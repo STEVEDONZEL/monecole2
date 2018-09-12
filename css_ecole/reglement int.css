@@ -70,10 +70,11 @@ section{
     text-align: center;
     font-size: 28px;
     font-family: serif;
-color: white;
+    color: white;
+    overflow: auto;
     background-color: #229922;
     box-shadow:1px
-padding: 25px 25px 25px 25px;
+    padding: 25px 25px 25px 25px;
     border: solid;
     border-color: #cccccc;
     margin-left: 200px;

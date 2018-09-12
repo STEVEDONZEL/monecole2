@@ -90,7 +90,7 @@
     </div>
 </div>
 <section>
-    <p>pas d'actualité pour le moment </p>                                                                                             LA DIRECTION
+    <p>pas d'actualité pour le moment</p>                                                                                             LA DIRECTION
 </section>
 <div class="bloc_partenaire">
     <div class="photos_partenaires">
